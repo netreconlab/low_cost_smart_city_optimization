@@ -6,9 +6,8 @@ import random
 
 ################## MY MODULES ##################
 import sim
+from helper_func import *
 from sensor import *
-
-
 
 
 
@@ -47,40 +46,6 @@ sensor_objects = None
 
 route_subgraphs = None
 
-################## HELPER FUNCTIONS ##################
-
-def get_stopid(node_name):
-    return node_name.split('_')[-1]
-
-
-def namify_stop(g_name,stop_id):
-    return "{0}_{1}".format(g_name,stop_id)
-
-
-def invert_dict(d):
-    inverted_d = defaultdict(set)
-    for k in d.keys():
-        for v in d[k]:
-            inverted_d[v].add(k)
-    return inverted_d
-
-# I don't think this is useful
-def get_routes_per_stop_id(stop_id):
-    for stop_id in time_table.stop_id.unique():
-            routes = time_table[time_table.stop_id == stop_id].route_id.unique()
-            return set(routes)
-
-
-def get_time_to_next_departure(current_time, departure_list):
-    try:
-        next_departure = min(v for v in departure_list if v >= current_time)
-        wait_time = next_departure - current_time
-    except:
-        wait_time = None
-
-    return wait_time
-
-
 ######################################################
 
 
@@ -96,7 +61,6 @@ def load_network():
 
 def load_stop_times():
     global stop_times, routes, trips, time_table
-
 
     stop_times = feed.stop_times
     routes = feed.routes
@@ -133,7 +97,7 @@ def format_stop_times():
 
     time_table = pt.summarizer._linearly_interpolate_infill_times(
         time_table,
-        use_multiprocessing=True)
+        use_multiprocessing=False)
 
     if 'direction_id' in time_table:
         # If there is such column then check if it contains NaN
@@ -410,10 +374,10 @@ def store_results():
     final_result['sim_time'] = sim.duration
 
     # print(sensor_objects.values())
-    # type(sensor_objects.values()[0])
+
+    t = 0
 
     for s in sensor_objects.values():
-
         data = {
             'delivery_rate': None,
             'no_of_routes': len(s.routes),
@@ -554,6 +518,19 @@ def print_stats():
     global all_routes, all_gateways, stop_ranks
     print("{} Routes, {} Gateways, {} stops".format(len(all_routes), len(all_gateways), len(stop_ranks)))
 
+
+
+def r():
+    #return random.randint(0, 20)
+    d = {}
+    d[1] = 1
+    d[2] = 2
+    d[3] = 3
+    d[4] = 4
+
+    for x in d.items():
+        return (x)
+
 if __name__ == '__main__':
     #import importlib
 
@@ -563,13 +540,16 @@ if __name__ == '__main__':
     for network in sim.network_file_list:
         for seed in range(0, sim.no_of_seeds):
 
-            #importlib.reload(gen)
-
             sim.seed = seed
+
             sim.network_file = network
 
             np.random.seed(sim.seed)
             random.seed(sim.seed)
+
+            #print(r())
+
+            #break
 
 
             load_network()
@@ -586,12 +566,15 @@ if __name__ == '__main__':
             assign_sensors_to_nodes()
             generate_sensors()
             generate_route_subgraphs()
-            run_simulation()
-            store_results()
+            #run_simulation()
+            #store_results()
 
-            reset_sim()
-
-
+            for k, v in route_subgraphs.items():
+                n = [node for node, out_degree in v.out_degree() if out_degree == 0]
+                # n = r.out_degree()
+                print(n)
     #a = edge_departures['route_id'].dtype = int
 
     #print(a.route_id.dtype)
+
+
