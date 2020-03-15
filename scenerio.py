@@ -9,6 +9,7 @@ class Scenerio:
 
     def __init__(self,
                  graph,
+                 dsp_memo,
                  all_stops,
                  all_routes,
                  routes_per_stop,
@@ -25,7 +26,7 @@ class Scenerio:
         self.all_gateways = None
         self.all_sensors = None
         self.sensor_objects = {}
-        self.dsp_memo = DspMemo()
+        self.dsp_memo = dsp_memo
         self.place_sensor(all_stops)
 
 
