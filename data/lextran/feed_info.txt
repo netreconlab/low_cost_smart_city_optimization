@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Lextran,http://www.lextran.com,en,20180819,20181231,20180817

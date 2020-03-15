@@ -1,0 +1,23 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2,0,"1","Woodhill",,3,http://mystop.lextran.com/InfoPoint/1,B30738,FFFFFF
+3,0,"2","Georgetown Road",,3,http://mystop.lextran.com/InfoPoint/2,80551B,FFFFFF
+4,0,"3","Tates Creek Road",,3,http://mystop.lextran.com/InfoPoint/3,003D7D,FFFFFF
+5,0,"4","Newtown Pike",,3,http://mystop.lextran.com/InfoPoint/4,532987,FFFFFF
+6,0,"5","Nicholasville Road",,3,http://mystop.lextran.com/InfoPoint/5,AEBC21,000000
+7,0,"6","North Broadway",,3,http://mystop.lextran.com/InfoPoint/6,FBB568,000000
+8,0,"7","North Limestone",,3,http://mystop.lextran.com/InfoPoint/7,E10077,FFFFFF
+9,0,"8","Versailles Road",,3,http://mystop.lextran.com/InfoPoint/8,006227,FFFFFF
+10,0,"9","Eastland",,3,http://mystop.lextran.com/InfoPoint/9,25BBD6,FFFFFF
+11,0,"10","Hamburg Pavilion",,3,http://mystop.lextran.com/InfoPoint/10,000000,FFFFFF
+12,0,"11","Richmond Road",,3,http://mystop.lextran.com/InfoPoint/11,ACAFD7,000000
+13,0,"12","Leestown Road",,3,http://mystop.lextran.com/InfoPoint/12,F47A1C,000000
+14,0,"13","South Broadway",,3,http://mystop.lextran.com/InfoPoint/13,929BA0,000000
+16,0,"15","Red Mile",,3,http://mystop.lextran.com/InfoPoint/15,609080,000000
+17,0,"16","Southland Drive",,3,http://mystop.lextran.com/InfoPoint/16,79003B,FFFFFF
+18,0,"17","Northside Connector",,3,http://mystop.lextran.com/InfoPoint/17,5191CD,000000
+19,0,"18","Centre Parkway Connector",,3,http://mystop.lextran.com/InfoPoint/18,00A890,000000
+21,0,"21","Keeneland Airport",,3,http://mystop.lextran.com/InfoPoint/21,FCB816,000000
+23,0,"24","Old Frankfort Pike",,3,http://mystop.lextran.com/InfoPoint/24,7030A0,FFFFFF
+25,0,"26","Uk Green Route",,3,http://mystop.lextran.com/InfoPoint/26,000000,FFFFFF
+29,0,"22","Mercer Road",,3,http://mystop.lextran.com/InfoPoint/22,FF0000,FFFFFF
+30,0,"27","Uk Yellow Route",,3,http://mystop.lextran.com/InfoPoint/27,FFFF00,FFFFFF

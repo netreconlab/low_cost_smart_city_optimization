@@ -3,8 +3,7 @@ from sensor import *
 import sim
 import networkx as nx
 from helper_func import *
-import sys
-from collections import defaultdict
+from dsp_memo import DspMemo
 
 class Scenerio:
 
@@ -26,7 +25,7 @@ class Scenerio:
         self.all_gateways = None
         self.all_sensors = None
         self.sensor_objects = {}
-
+        self.dsp_memo = DspMemo()
         self.place_sensor(all_stops)
 
 
@@ -151,8 +150,9 @@ class Scenerio:
                 wait_time = None
 
                 try:
-                    distance, path = nx.single_source_dijkstra(g, sensor.name, namify_stop(self.G.name, gateway),
-                                                               weight='length')
+                    distance, path = self.dsp_memo.getDsp(g, r, sensor.name, namify_stop(self.G.name, gateway))
+                    # distance, path = nx.single_source_dijkstra(g, sensor.name, namify_stop(self.G.name, gateway),
+                    #                                            weight='length')
                 except Exception as e:
                     continue
 

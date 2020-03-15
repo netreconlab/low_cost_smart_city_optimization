@@ -1,0 +1,2243 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+2,2,t176C-sl2-p1BC-r2,"Wdhill To Drbyck",0,12,444_shp
+2,2,t176D-sl2-p1BC-r1,"Wdhill To Drbyck",0,11,444_shp
+2,2,t176E-sl2-p1BC-r2,"Wdhill To Drbyck",0,12,444_shp
+2,2,t176F-sl2-p1BC-r1,"Wdhill To Drbyck",0,11,444_shp
+2,2,t1770-sl2-p1BC-r2,"Wdhill To Drbyck",0,12,444_shp
+2,2,t1771-sl2-p1BC-r2,"Wdhill To Drbyck",0,12,444_shp
+2,2,t1772-sl2-p1BC-r2,"Wdhill To Drbyck",0,12,444_shp
+2,2,t1773-sl2-p3-r2,"Wdhill To Drbyck",0,12,3_shp
+2,2,t1774-sl2-p3-r2,"Wdhill To Drbyck",0,12,3_shp
+2,2,t1775-sl2-p1B8-r2,"Wdhill To Drbyck",0,12,440_shp
+2,2,t1776-sl2-p1B8-r2,"Wdhill To Drbyck",0,12,440_shp
+2,2,t1777-sl2-p1B8-r2,"Wdhill To Drbyck",0,12,440_shp
+2,2,t1778-sl2-p1B8-r2,"Wdhill To Drbyck",0,12,440_shp
+2,2,t1779-sl2-p1B8-r2,"Wdhill To Drbyck",0,12,440_shp
+2,2,t177A-sl2-p1B8-r2,"Wdhill To Drbyck",0,12,440_shp
+2,2,t177B-sl2-p1F8-r2,"Wdhill To Stjoe",0,12,504_shp
+2,2,t177C-sl2-p1F8-r2,"Wdhill To Stjoe",0,12,504_shp
+2,2,t177D-sl2-p1F8-r2,"Wdhill To Stjoe",0,12,504_shp
+2,2,t177E-sl2-p299-r2,"Woodhill To Tc",1,12,665_shp
+2,2,t1780-sl2-p29A-r2,"Woodhill To Tc",1,12,666_shp
+2,2,t1781-sl2-p29A-r1,"Woodhill To Tc",1,11,666_shp
+2,2,t1782-sl2-p29A-r2,"Woodhill To Tc",1,12,666_shp
+2,2,t1783-sl2-p29A-r1,"Woodhill To Tc",1,11,666_shp
+2,2,t1784-sl2-p29A-r2,"Woodhill To Tc",1,12,666_shp
+2,2,t1785-sl2-p29A-r1,"Woodhill To Tc",1,11,666_shp
+2,2,t1786-sl2-p29A-r2,"Woodhill To Tc",1,12,666_shp
+2,2,t1787-sl2-p29A-r1,"Woodhill To Tc",1,11,666_shp
+2,2,t1788-sl2-p29A-r2,"Woodhill To Tc",1,12,666_shp
+2,2,t1789-sl2-p29A-r1,"Woodhill To Tc",1,11,666_shp
+2,2,t178A-sl2-p1FC-r1,"Woodhill To Tc",1,11,508_shp
+2,2,t178B-sl2-p1FC-r2,"Woodhill To Tc",1,12,508_shp
+2,2,t178C-sl2-p1FC-r1,"Woodhill To Tc",1,11,508_shp
+2,2,t178D-sl2-p1FC-r2,"Woodhill To Tc",1,12,508_shp
+2,2,t178E-sl2-p1FC-r1,"Woodhill To Tc",1,11,508_shp
+2,2,t178F-sl2-p1FC-r2,"Woodhill To Tc",1,12,508_shp
+2,2,t1790-sl2-p1FC-r1,"Woodhill To Tc",1,11,508_shp
+2,2,t1791-sl2-p29B-r2,"Woodhill To Tc",1,12,667_shp
+2,2,t1792-sl2-p29C-r2,"Woodhill To Tc",1,12,668_shp
+2,2,t1793-sl2-p29C-r2,"Woodhill To Tc",1,12,668_shp
+2,2,t1794-sl2-p29D-r2,"Woodhill To Tc",1,12,669_shp
+2,2,t19C7-sl2-p318-r1,"Wdhill To Drbyck",0,11,792_shp
+2,2,t19C8-sl2-p2-r1,"Wdhill To Drbyck",0,11,2_shp
+2,2,t19C9-sl2-p1FB-r1,"Woodhill To Tc",1,11,507_shp
+2,2,t19CA-sl2-p29A-r1,"Woodhill To Tc",1,11,666_shp
+2,2,t37-sl2-p1BC-r1,"Wdhill To Drbyck",0,11,444_shp
+2,2,t38-sl2-p1BC-r1,"Wdhill To Drbyck",0,11,444_shp
+2,2,t39-sl2-p1BC-r1,"Wdhill To Drbyck",0,11,444_shp
+2,2,t3A-sl2-p3-r1,"Wdhill To Drbyck",0,11,3_shp
+2,2,t3B-sl2-p1B8-r1,"Wdhill To Drbyck",0,11,440_shp
+2,2,t3C-sl2-p1B8-r1,"Wdhill To Drbyck",0,11,440_shp
+2,2,t3D-sl2-p1B8-r1,"Wdhill To Drbyck",0,11,440_shp
+2,2,t3E-sl2-p1B8-r1,"Wdhill To Drbyck",0,11,440_shp
+2,2,t49-sl2-p29B-r1,"Woodhill To Tc",1,11,667_shp
+2,2,t5C-sl2-p1FC-r2,"Woodhill To Tc",1,12,508_shp
+2,2,t8B4-sl2-p318-r2,"Wdhill To Drbyck",0,12,792_shp
+2,3,t145B-sl3-p8-r1,"Wdhill To Drbyck",0,11,8_shp
+2,3,t145C-sl3-p9-r1,"Woodhill To Tc",1,11,9_shp
+2,3,t176E-sl3-p6-r1,"Wdhill To Drbyck",0,11,6_shp
+2,3,t1770-sl3-p6-r1,"Wdhill To Drbyck",0,11,6_shp
+2,3,t1771-sl3-p4DD-r1,"Wdhill To Drbyck",0,11,1245_shp
+2,3,t1772-sl3-p4DD-r1,"Wdhill To Drbyck",0,11,1245_shp
+2,3,t1773-sl3-p4DD-r1,"Wdhill To Drbyck",0,11,1245_shp
+2,3,t1774-sl3-p7-r1,"Wdhill To Drbyck",0,11,7_shp
+2,3,t1775-sl3-p1C2-r1,"Wdhill To Drbyck",0,11,450_shp
+2,3,t1776-sl3-p1C2-r1,"Wdhill To Drbyck",0,11,450_shp
+2,3,t1777-sl3-p1C2-r1,"Wdhill To Drbyck",0,11,450_shp
+2,3,t1778-sl3-p1C2-r1,"Wdhill To Drbyck",0,11,450_shp
+2,3,t1779-sl3-p1C2-r1,"Wdhill To Drbyck",0,11,450_shp
+2,3,t177A-sl3-p1C2-r1,"Wdhill To Drbyck",0,11,450_shp
+2,3,t177B-sl3-p1FD-r1,"Wdhill To Stjoe",0,11,509_shp
+2,3,t177C-sl3-p1FD-r1,"Wdhill To Stjoe",0,11,509_shp
+2,3,t177D-sl3-p1FD-r1,"Wdhill To Stjoe",0,11,509_shp
+2,3,t1797-sl3-p9-r1,"Woodhill To Tc",1,11,9_shp
+2,3,t1798-sl3-p1C5-r1,"Woodhill To Tc",1,11,453_shp
+2,3,t1799-sl3-p1C5-r1,"Woodhill To Tc",1,11,453_shp
+2,3,t179A-sl3-p1C5-r1,"Woodhill To Tc",1,11,453_shp
+2,3,t179B-sl3-p1C6-r1,"Woodhill To Tc",1,11,454_shp
+2,3,t179C-sl3-p1C6-r1,"Woodhill To Tc",1,11,454_shp
+2,3,t179D-sl3-pA-r1,"Woodhill To Tc",1,11,10_shp
+2,3,t179E-sl3-pA-r1,"Woodhill To Tc",1,11,10_shp
+2,3,t179F-sl3-pA-r1,"Woodhill To Tc",1,11,10_shp
+2,3,t17A0-sl3-pA-r1,"Woodhill To Tc",1,11,10_shp
+2,3,t17A1-sl3-p1C7-r1,"Woodhill To Tc",1,11,455_shp
+2,3,t17A2-sl3-p1C7-r1,"Woodhill To Tc",1,11,455_shp
+2,3,t17A3-sl3-p1C7-r1,"Woodhill To Tc",1,11,455_shp
+2,3,t3-sl3-p6-r1,"Wdhill To Drbyck",0,11,6_shp
+2,4,t145C-sl4-pE-r1,"Woodhill To Tc",1,11,14_shp
+2,4,t17A5-sl4-pB-r1,"Wdhill To Drbyck",0,11,11_shp
+2,4,t17A6-sl4-pB-r1,"Wdhill To Drbyck",0,11,11_shp
+2,4,t17A7-sl4-p4F2-r1,"Wdhill To Drbyck",0,11,1266_shp
+2,4,t17A8-sl4-p4F2-r1,"Wdhill To Drbyck",0,11,1266_shp
+2,4,t17A9-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,4,t17AA-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,4,t17AB-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,4,t17AC-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,4,t17AD-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,4,t17AE-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,4,t19CB-sl4-pC-r1,"Wdhill To Drbyck",0,11,12_shp
+2,4,t19CC-sl4-p4F2-r1,"Wdhill To Drbyck",0,11,1266_shp
+2,4,t19CD-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19CE-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19CF-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D0-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D1-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D2-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D3-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D4-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D5-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D6-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D7-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D8-sl4-p1C9-r1,"Woodhill To Tc",1,11,457_shp
+2,4,t19D9-sl4-pE-r1,"Woodhill To Tc",1,11,14_shp
+2,4,t3-sl4-pB-r1,"Wdhill To Drbyck",0,11,11_shp
+2,4,t8B5-sl4-p4F3-r1,"Wdhill To Drbyck",0,11,1267_shp
+2,5,t145C-sl5-p13-r1,"Woodhill To Tc",1,11,19_shp
+2,5,t17A5-sl5-p10-r1,"Wdhill To Drbyck",0,11,16_shp
+2,5,t17A6-sl5-p10-r1,"Wdhill To Drbyck",0,11,16_shp
+2,5,t17A7-sl5-p55E-r1,"Wdhill To Drbyck",0,11,1374_shp
+2,5,t17A8-sl5-p55E-r1,"Wdhill To Drbyck",0,11,1374_shp
+2,5,t17A9-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+2,5,t17AA-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+2,5,t17AB-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+2,5,t17AC-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+2,5,t17AD-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+2,5,t17AE-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+2,5,t19CB-sl5-p11-r1,"Wdhill To Drbyck",0,11,17_shp
+2,5,t19CC-sl5-p55E-r1,"Wdhill To Drbyck",0,11,1374_shp
+2,5,t19CD-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19CE-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19CF-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D0-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D1-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D2-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D3-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D4-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D5-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D6-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D7-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D8-sl5-p1CA-r1,"Woodhill To Tc",1,11,458_shp
+2,5,t19D9-sl5-p13-r1,"Woodhill To Tc",1,11,19_shp
+2,5,t3-sl5-p10-r1,"Wdhill To Drbyck",0,11,16_shp
+2,5,t8B5-sl5-p55F-r1,"Wdhill To Drbyck",0,11,1375_shp
+3,2,t11DD-sl2-p4CF-r3,"Gtown - Citation",0,21,1231_shp
+3,2,t11DE-sl2-p4CF-r3,"Gtown - Citation",0,21,1231_shp
+3,2,t11E1-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t17BF-sl2-p16-r3,"Gtown To Va Med",0,21,22_shp
+3,2,t17C0-sl2-p16-r3,"Gtown To Va Med",0,21,22_shp
+3,2,t17C1-sl2-p16-r3,"Gtown To Va Med",0,21,22_shp
+3,2,t19F1-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t19F2-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t19F3-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t19F4-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E2F-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E30-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E31-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E32-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E33-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E34-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E35-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E36-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E37-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E38-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E39-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E3A-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E3B-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E3C-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E3D-sl2-p1C-r4,"Gtown To Tc",1,22,28_shp
+3,2,t1E3E-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E3F-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t1E40-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,t65-sl2-p15-r3,"Gtown - Citation",0,21,21_shp
+3,2,t66-sl2-p15-r4,"Gtown - Citation",0,22,21_shp
+3,2,t67-sl2-p15-r3,"Gtown - Citation",0,21,21_shp
+3,2,t68-sl2-p15-r4,"Gtown - Citation",0,22,21_shp
+3,2,t69-sl2-p15-r3,"Gtown - Citation",0,21,21_shp
+3,2,t6A-sl2-p15-r4,"Gtown - Citation",0,22,21_shp
+3,2,t6B-sl2-p15-r3,"Gtown - Citation",0,21,21_shp
+3,2,t6C-sl2-p4CD-r4,"Gtown - Citation",0,22,1229_shp
+3,2,t6D-sl2-p4CD-r3,"Gtown - Citation",0,21,1229_shp
+3,2,t6E-sl2-p4CE-r4,"Gtown - Citation",0,22,1230_shp
+3,2,t6F-sl2-p4CE-r3,"Gtown - Citation",0,21,1230_shp
+3,2,t70-sl2-p4CE-r4,"Gtown - Citation",0,22,1230_shp
+3,2,t71-sl2-p4CE-r3,"Gtown - Citation",0,21,1230_shp
+3,2,t72-sl2-p4CE-r4,"Gtown - Citation",0,22,1230_shp
+3,2,t73-sl2-p4CE-r3,"Gtown - Citation",0,21,1230_shp
+3,2,t74-sl2-p4CE-r4,"Gtown - Citation",0,22,1230_shp
+3,2,t75-sl2-p4CE-r3,"Gtown - Citation",0,21,1230_shp
+3,2,t76-sl2-p4CF-r4,"Gtown - Citation",0,22,1231_shp
+3,2,t77-sl2-p4CF-r3,"Gtown - Citation",0,21,1231_shp
+3,2,t78-sl2-p4CF-r4,"Gtown - Citation",0,22,1231_shp
+3,2,t79-sl2-p4CF-r3,"Gtown - Citation",0,21,1231_shp
+3,2,tA1-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,2,tA2-sl2-p1C-r3,"Gtown To Tc",1,21,28_shp
+3,3,t11DD-sl3-p4E7-r3,"Gtown - Citation",0,21,1255_shp
+3,3,t11DE-sl3-p4E7-r3,"Gtown - Citation",0,21,1255_shp
+3,3,t14AF-sl3-p20-r3,"Gtown To Tc",1,21,32_shp
+3,3,t14B9-sl3-p20-r3,"Gtown To Tc",1,21,32_shp
+3,3,t14BA-sl3-p20-r3,"Gtown To Tc",1,21,32_shp
+3,3,t17BF-sl3-p1D-r3,"Gtown To Va Med",0,21,29_shp
+3,3,t17C0-sl3-p1D-r3,"Gtown To Va Med",0,21,29_shp
+3,3,t17C1-sl3-p1D-r3,"Gtown To Va Med",0,21,29_shp
+3,3,t19E0-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19E2-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19E4-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19E6-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19E8-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19EA-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19EC-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19EE-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t19EF-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t1E41-sl3-p1D3-r3,"Gtown To Tc",1,21,467_shp
+3,3,t65-sl3-p4B6-r3,"Gtown - Citation",0,21,1206_shp
+3,3,t67-sl3-p4B6-r3,"Gtown - Citation",0,21,1206_shp
+3,3,t69-sl3-p4B6-r3,"Gtown - Citation",0,21,1206_shp
+3,3,t6B-sl3-p4B6-r3,"Gtown - Citation",0,21,1206_shp
+3,3,t6D-sl3-p4E6-r3,"Gtown - Citation",0,21,1254_shp
+3,3,t6F-sl3-p4E6-r3,"Gtown - Citation",0,21,1254_shp
+3,3,t71-sl3-p4E6-r3,"Gtown - Citation",0,21,1254_shp
+3,3,t73-sl3-p4E6-r3,"Gtown - Citation",0,21,1254_shp
+3,3,t75-sl3-p4E6-r3,"Gtown - Citation",0,21,1254_shp
+3,3,t77-sl3-p4E6-r3,"Gtown - Citation",0,21,1254_shp
+3,3,t79-sl3-p4E7-r3,"Gtown - Citation",0,21,1255_shp
+3,3,t81-sl3-p20-r3,"Gtown To Tc",1,21,32_shp
+3,4,t19F8-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,t1A03-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1A04-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1A05-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E42-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E43-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E44-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E45-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E46-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E47-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E48-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E49-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E4A-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t1E4B-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,t65-sl4-p4B7-r3,"Gtown - Citation",0,21,1207_shp
+3,4,t7F-sl4-p23-r3,"Gtown To Tc",1,21,35_shp
+3,4,tB2-sl4-p4F8-r3,"Gtown - Citation",0,21,1272_shp
+3,4,tC4E-sl4-p4B7-r3,"Gtown - Citation",0,21,1207_shp
+3,4,tC4F-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,tC50-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,tC51-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,tC52-sl4-p4F8-r3,"Gtown - Citation",0,21,1272_shp
+3,4,tC53-sl4-p4F8-r3,"Gtown - Citation",0,21,1272_shp
+3,4,tC54-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,tC55-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,tC56-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,4,tC57-sl4-p4F7-r3,"Gtown - Citation",0,21,1271_shp
+3,5,t19F8-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,t1A03-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1A04-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1A05-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E42-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E43-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E44-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E45-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E46-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E47-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E48-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E49-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E4A-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t1E4B-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,t65-sl5-p507-r3,"Gtown - Citation",0,21,1287_shp
+3,5,t7F-sl5-p26-r3,"Gtown To Tc",1,21,38_shp
+3,5,tB2-sl5-p562-r3,"Gtown - Citation",0,21,1378_shp
+3,5,tC4E-sl5-p507-r3,"Gtown - Citation",0,21,1287_shp
+3,5,tC4F-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,tC50-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,tC51-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,tC52-sl5-p562-r3,"Gtown - Citation",0,21,1378_shp
+3,5,tC53-sl5-p562-r3,"Gtown - Citation",0,21,1378_shp
+3,5,tC54-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,tC55-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,tC56-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+3,5,tC57-sl5-p561-r3,"Gtown - Citation",0,21,1377_shp
+4,2,t1074-sl2-p1DB-r5,"Tates Creek Ib",1,31,475_shp
+4,2,t11EA-sl2-p47C-r6,"Tates Creek Ob",0,32,1148_shp
+4,2,t11EB-sl2-p47C-r4D,"Tates Creek Ob",0,35,1148_shp
+4,2,t11F5-sl2-p1DE-r4D,"Tates Creek Ib",1,35,478_shp
+4,2,t11F6-sl2-p1DE-r4B,"Tates Creek Ib",1,34,478_shp
+4,2,t11F7-sl2-p1DE-r6,"Tates Creek Ib",1,32,478_shp
+4,2,t11F8-sl2-p1DE-r7,"Tates Creek Ib",1,33,478_shp
+4,2,t11F9-sl2-p1DE-r4D,"Tates Creek Ib",1,35,478_shp
+4,2,t11FA-sl2-p1DE-r4B,"Tates Creek Ib",1,34,478_shp
+4,2,t11FB-sl2-p47D-r6,"Tates Creek Ib",1,32,1149_shp
+4,2,t11FD-sl2-p37B-r6,"Tates Creek Ib",1,32,891_shp
+4,2,t11FE-sl2-p37B-r4D,"Tates Creek Ib",1,35,891_shp
+4,2,t1201-sl2-p1DD-r5,"Tates Creek Ib",1,31,477_shp
+4,2,t1202-sl2-p1DD-r6,"Tates Creek Ib",1,32,477_shp
+4,2,t1203-sl2-p1DD-r5,"Tates Creek Ib",1,31,477_shp
+4,2,t1204-sl2-p1DD-r6,"Tates Creek Ib",1,32,477_shp
+4,2,t17E5-sl2-p28-r6,"Tates Creek Ob",0,32,40_shp
+4,2,t17E6-sl2-p28-r4D,"Tates Creek Ob",0,35,40_shp
+4,2,t17E7-sl2-p28-r4D,"Tates Creek Ob",0,35,40_shp
+4,2,t17E9-sl2-p2B-r4D,"Tates Creek Ib",1,35,43_shp
+4,2,t17EA-sl2-p2B-r4D,"Tates Creek Ib",1,35,43_shp
+4,2,t1A06-sl2-p298-r4D,"Tates Creek Ib",1,35,664_shp
+4,2,t1A07-sl2-p2B-r6,"Tates Creek Ib",1,32,43_shp
+4,2,t1D9B-sl2-p29-r5,"Tates Creek Ib",1,31,41_shp
+4,2,t1D9C-sl2-p29-r6,"Tates Creek Ib",1,32,41_shp
+4,2,t1D9D-sl2-p2A-r7,"Tates Creek Ib",1,33,42_shp
+4,2,t1D9E-sl2-p1DB-r6,"Tates Creek Ib",1,32,475_shp
+4,2,t1D9F-sl2-p1DC-r7,"Tates Creek Ib",1,33,476_shp
+4,2,t1DA0-sl2-p1DD-r4B,"Tates Creek Ib",1,34,477_shp
+4,2,t1DA1-sl2-p1DD-r7,"Tates Creek Ib",1,33,477_shp
+4,2,t1DA2-sl2-p1DD-r4B,"Tates Creek Ib",1,34,477_shp
+4,2,t1DA3-sl2-p1DD-r7,"Tates Creek Ib",1,33,477_shp
+4,2,t8EE-sl2-p1DB-r4B,"Tates Creek Ib",1,34,475_shp
+4,2,tC7-sl2-p27-r5,"Tates Creek Ob",0,31,39_shp
+4,2,tC8-sl2-p27-r4B,"Tates Creek Ob",0,34,39_shp
+4,2,tC9-sl2-p27-r6,"Tates Creek Ob",0,32,39_shp
+4,2,tCA-sl2-p27-r7,"Tates Creek Ob",0,33,39_shp
+4,2,tCB-sl2-p27-r5,"Tates Creek Ob",0,31,39_shp
+4,2,tCC-sl2-p1D5-r4B,"Tates Creek Ob",0,34,469_shp
+4,2,tCD-sl2-p1D5-r6,"Tates Creek Ob",0,32,469_shp
+4,2,tCE-sl2-p1D6-r7,"Tates Creek Ob",0,33,470_shp
+4,2,tCF-sl2-p1D6-r5,"Tates Creek Ob",0,31,470_shp
+4,2,tD0-sl2-p1D6-r4B,"Tates Creek Ob",0,34,470_shp
+4,2,tD1-sl2-p1D7-r6,"Tates Creek Ob",0,32,471_shp
+4,2,tD2-sl2-p1D7-r7,"Tates Creek Ob",0,33,471_shp
+4,2,tD3-sl2-p1D7-r5,"Tates Creek Ob",0,31,471_shp
+4,2,tD4-sl2-p1D8-r4B,"Tates Creek Ob",0,34,472_shp
+4,2,tD5-sl2-p1D8-r6,"Tates Creek Ob",0,32,472_shp
+4,2,tD6-sl2-p1D8-r7,"Tates Creek Ob",0,33,472_shp
+4,2,tD7-sl2-p1D8-r4D,"Tates Creek Ob",0,35,472_shp
+4,2,tD8-sl2-p1D9-r4B,"Tates Creek Ob",0,34,473_shp
+4,2,tD9-sl2-p1D9-r6,"Tates Creek Ob",0,32,473_shp
+4,2,tDA-sl2-p1DA-r7,"Tates Creek Ob",0,33,474_shp
+4,2,tDB-sl2-p1DA-r4D,"Tates Creek Ob",0,35,474_shp
+4,3,t11BA-sl3-p2E-r5,"Tates Creek Ib",1,31,46_shp
+4,3,t11BB-sl3-p2E-r6,"Tates Creek Ib",1,32,46_shp
+4,3,t11EA-sl3-p2D-r6,"Tates Creek Ob",0,32,45_shp
+4,3,t11EB-sl3-p2D-r5,"Tates Creek Ob",0,31,45_shp
+4,3,t11EE-sl3-p2F-r6,"Tates Creek Ib",1,32,47_shp
+4,3,t1201-sl3-p1E0-r5,"Tates Creek Ib",1,31,480_shp
+4,3,t1202-sl3-p1E0-r6,"Tates Creek Ib",1,32,480_shp
+4,3,t1203-sl3-p1E0-r5,"Tates Creek Ib",1,31,480_shp
+4,3,t1204-sl3-p1E0-r6,"Tates Creek Ib",1,32,480_shp
+4,3,t1205-sl3-p1E0-r5,"Tates Creek Ib",1,31,480_shp
+4,3,t1206-sl3-p1E0-r6,"Tates Creek Ib",1,32,480_shp
+4,3,t1207-sl3-p1E0-r5,"Tates Creek Ib",1,31,480_shp
+4,3,t1208-sl3-p1E0-r6,"Tates Creek Ib",1,32,480_shp
+4,3,t1209-sl3-p1E1-r5,"Tates Creek Ib",1,31,481_shp
+4,3,t17E5-sl3-p2D-r5,"Tates Creek Ob",0,31,45_shp
+4,3,t17E6-sl3-p2D-r5,"Tates Creek Ob",0,31,45_shp
+4,3,t17E7-sl3-p2D-r5,"Tates Creek Ob",0,31,45_shp
+4,3,t17EB-sl3-p30-r5,"Tates Creek Ib",1,31,48_shp
+4,3,t17EC-sl3-p30-r5,"Tates Creek Ib",1,31,48_shp
+4,3,t17ED-sl3-p30-r5,"Tates Creek Ib",1,31,48_shp
+4,3,t1A08-sl3-p30-r6,"Tates Creek Ib",1,32,48_shp
+4,3,t8F8-sl3-p30-r5,"Tates Creek Ib",1,31,48_shp
+4,3,tC7-sl3-p2C-r5,"Tates Creek Ob",0,31,44_shp
+4,3,tC9-sl3-p2C-r6,"Tates Creek Ob",0,32,44_shp
+4,3,tCB-sl3-p2C-r5,"Tates Creek Ob",0,31,44_shp
+4,3,tCD-sl3-p1DF-r6,"Tates Creek Ob",0,32,479_shp
+4,3,tCF-sl3-p1DF-r5,"Tates Creek Ob",0,31,479_shp
+4,3,tD1-sl3-p1DF-r6,"Tates Creek Ob",0,32,479_shp
+4,3,tD3-sl3-p1DF-r5,"Tates Creek Ob",0,31,479_shp
+4,3,tD5-sl3-p1DF-r6,"Tates Creek Ob",0,32,479_shp
+4,3,tD7-sl3-p1DF-r5,"Tates Creek Ob",0,31,479_shp
+4,3,tD9-sl3-p1DF-r6,"Tates Creek Ob",0,32,479_shp
+4,3,tDB-sl3-p2C-r5,"Tates Creek Ob",0,31,44_shp
+4,3,tDB8-sl3-p2F-r5,"Tates Creek Ib",1,31,47_shp
+4,4,t12A-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,t1A09-sl4-p31-r5,"Tates Creek Ob",0,31,49_shp
+4,4,t1A0A-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,t1A0B-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,t1A0C-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,t1A0D-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,t1A0E-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,t1A0F-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,t1A10-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,t1A11-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A12-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A13-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A14-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A15-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A16-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A17-sl4-p558-r5,"Tates Creek Ib",1,31,1368_shp
+4,4,t1A18-sl4-p50C-r5,"Tates Creek Ib",1,31,1292_shp
+4,4,tC65-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC66-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC67-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC68-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC69-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC6A-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC6B-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC6C-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC6D-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC6E-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,4,tC7-sl4-p50B-r5,"Tates Creek Ob",0,31,1291_shp
+4,5,t12A-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,t1A09-sl5-p35-r5,"Tates Creek Ob",0,31,53_shp
+4,5,t1A0A-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,t1A0B-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,t1A0C-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,t1A0D-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,t1A0E-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,t1A0F-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,t1A10-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,t1A11-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A12-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A13-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A14-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A15-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A16-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A17-sl5-p563-r5,"Tates Creek Ib",1,31,1379_shp
+4,5,t1A18-sl5-p50D-r5,"Tates Creek Ib",1,31,1293_shp
+4,5,tC65-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC66-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC67-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC68-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC69-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC6A-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC6B-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC6C-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC6D-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC6E-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+4,5,tC7-sl5-p34-r5,"Tates Creek Ob",0,31,52_shp
+5,2,t17C-sl2-p18C-r8,"Newtown To Stant",0,41,396_shp
+5,2,t17D-sl2-p18C-r8,"Newtown To Stant",0,41,396_shp
+5,2,t17E-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t17F-sl2-p18D-r8,"Newtown To Stant",0,41,397_shp
+5,2,t17F1-sl2-p47F-r9,"Newtown To Stant",0,42,1151_shp
+5,2,t17F2-sl2-p47F-r9,"Newtown To Stant",0,42,1151_shp
+5,2,t17F3-sl2-p47F-r9,"Newtown To Stant",0,42,1151_shp
+5,2,t17F4-sl2-p3A-r9,"Newtown To Tc",1,42,58_shp
+5,2,t17F5-sl2-p3A-r9,"Newtown To Tc",1,42,58_shp
+5,2,t17F6-sl2-p2AE-r9,"Newtown To Tc",1,42,686_shp
+5,2,t180-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t181-sl2-p18D-r8,"Newtown To Stant",0,41,397_shp
+5,2,t182-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t183-sl2-p18D-r8,"Newtown To Stant",0,41,397_shp
+5,2,t184-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t185-sl2-p18D-r8,"Newtown To Stant",0,41,397_shp
+5,2,t186-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t187-sl2-p18D-r8,"Newtown To Stant",0,41,397_shp
+5,2,t188-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t189-sl2-p18D-r8,"Newtown To Stant",0,41,397_shp
+5,2,t1A19-sl2-p39-r8,"Newtown To Stant",0,41,57_shp
+5,2,t1A1A-sl2-p39-r9,"Newtown To Stant",0,42,57_shp
+5,2,t1A1B-sl2-p18B-r8,"Newtown To Stant",0,41,395_shp
+5,2,t1A1C-sl2-p18C-r9,"Newtown To Stant",0,42,396_shp
+5,2,t1A1D-sl2-p18C-r8,"Newtown To Stant",0,41,396_shp
+5,2,t1A1E-sl2-p18C-r9,"Newtown To Stant",0,42,396_shp
+5,2,t1A1F-sl2-p18C-r9,"Newtown To Stant",0,42,396_shp
+5,2,t1A20-sl2-p18D-r9,"Newtown To Stant",0,42,397_shp
+5,2,t1A21-sl2-p47E-r9,"Newtown To Stant",0,42,1150_shp
+5,2,t1A22-sl2-p47E-r9,"Newtown To Stant",0,42,1150_shp
+5,2,t1A23-sl2-p3A-r8,"Newtown To Tc",1,41,58_shp
+5,2,t1A24-sl2-p1A3-r9,"Newtown To Tc",1,42,419_shp
+5,2,t1A25-sl2-p1A3-r8,"Newtown To Tc",1,41,419_shp
+5,2,t1A26-sl2-p3B-r9,"Newtown To Tc",1,42,59_shp
+5,2,t1A27-sl2-p3B-r8,"Newtown To Tc",1,41,59_shp
+5,2,t1A28-sl2-p3B-r8,"Newtown To Tc",1,41,59_shp
+5,2,t1A29-sl2-p1A4-r8,"Newtown To Tc",1,41,420_shp
+5,2,t1A2A-sl2-p1A4-r9,"Newtown To Tc",1,42,420_shp
+5,2,t1A2B-sl2-p1A4-r8,"Newtown To Tc",1,41,420_shp
+5,2,t1A2C-sl2-p1A4-r9,"Newtown To Tc",1,42,420_shp
+5,2,t1A2D-sl2-p1A4-r8,"Newtown To Tc",1,41,420_shp
+5,2,t1A2E-sl2-p1A4-r9,"Newtown To Tc",1,42,420_shp
+5,2,t1A2F-sl2-p1A4-r8,"Newtown To Tc",1,41,420_shp
+5,2,t1A30-sl2-p341-r9,"Newtown To Tc",1,42,833_shp
+5,2,t1A31-sl2-p1A4-r8,"Newtown To Tc",1,41,420_shp
+5,2,t1A32-sl2-p1A4-r9,"Newtown To Tc",1,42,420_shp
+5,2,t1A33-sl2-p1A3-r8,"Newtown To Tc",1,41,419_shp
+5,2,t1A34-sl2-p480-r9,"Newtown To Tc",1,42,1152_shp
+5,2,t1A35-sl2-p480-r9,"Newtown To Tc",1,42,1152_shp
+5,2,t1A36-sl2-p480-r9,"Newtown To Tc",1,42,1152_shp
+5,2,t1A37-sl2-p53F-r9,"Newtown To Tc",1,42,1343_shp
+5,2,t1A38-sl2-p3A-r9,"Newtown To Tc",1,42,58_shp
+5,2,tEC6-sl2-p480-r8,"Newtown To Tc",1,41,1152_shp
+5,2,tEC7-sl2-p480-r8,"Newtown To Tc",1,41,1152_shp
+5,2,tECC-sl2-p3B-r9,"Newtown To Tc",1,42,59_shp
+5,2,tECD-sl2-p3B-r9,"Newtown To Tc",1,42,59_shp
+5,3,t148-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t17E-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t17F1-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t17F2-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t17F3-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t180-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t182-sl3-p13B-r8,"Newtown To Stant",0,41,315_shp
+5,3,t184-sl3-p13B-r8,"Newtown To Stant",0,41,315_shp
+5,3,t186-sl3-p13C-r8,"Newtown To Stant",0,41,316_shp
+5,3,t188-sl3-p13C-r8,"Newtown To Stant",0,41,316_shp
+5,3,t1A1C-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t1A1E-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t1A1F-sl3-p3D-r8,"Newtown To Stant",0,41,61_shp
+5,3,t1A20-sl3-p13C-r8,"Newtown To Stant",0,41,316_shp
+5,3,t1A21-sl3-p4EA-r8,"Newtown To Stant",0,41,1258_shp
+5,3,t1A22-sl3-p4EA-r8,"Newtown To Stant",0,41,1258_shp
+5,3,t1A2C-sl3-p346-r8,"Newtown To Tc",1,41,838_shp
+5,3,t1A2E-sl3-p346-r8,"Newtown To Tc",1,41,838_shp
+5,3,t1A30-sl3-p346-r8,"Newtown To Tc",1,41,838_shp
+5,3,t1A32-sl3-p346-r8,"Newtown To Tc",1,41,838_shp
+5,3,t1A39-sl3-p3E-r8,"Newtown To Tc",1,41,62_shp
+5,3,t1A3A-sl3-p3E-r8,"Newtown To Tc",1,41,62_shp
+5,3,t1A3B-sl3-p13D-r8,"Newtown To Tc",1,41,317_shp
+5,3,t1A3C-sl3-p13E-r8,"Newtown To Tc",1,41,318_shp
+5,3,t1A3D-sl3-p346-r8,"Newtown To Tc",1,41,838_shp
+5,3,t1A3E-sl3-p346-r8,"Newtown To Tc",1,41,838_shp
+5,3,t1A3F-sl3-p347-r8,"Newtown To Tc",1,41,839_shp
+5,3,t1A40-sl3-p347-r8,"Newtown To Tc",1,41,839_shp
+5,3,t1A41-sl3-p347-r8,"Newtown To Tc",1,41,839_shp
+5,3,t1A42-sl3-p490-r8,"Newtown To Tc",1,41,1168_shp
+5,3,t1A43-sl3-p347-r8,"Newtown To Tc",1,41,839_shp
+5,3,t1A44-sl3-p48F-r8,"Newtown To Tc",1,41,1167_shp
+5,3,tEAA-sl3-p3E-r8,"Newtown To Tc",1,41,62_shp
+5,4,t148-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t172-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t174-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A45-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A46-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A47-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A48-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A49-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A4A-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A4B-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A4C-sl4-p40-r8,"Newtown To Stant",0,41,64_shp
+5,4,t1A4D-sl4-p166-r8,"Newtown To Stant",0,41,358_shp
+5,4,t1A4E-sl4-p166-r8,"Newtown To Stant",0,41,358_shp
+5,4,t1A4F-sl4-p166-r8,"Newtown To Stant",0,41,358_shp
+5,4,t1A50-sl4-p166-r8,"Newtown To Stant",0,41,358_shp
+5,4,t1A51-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A52-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A53-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A54-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A55-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A56-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A57-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A58-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A59-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A5A-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,t1A5B-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,4,tEBC-sl4-p41-r8,"Newtown To Tc",1,41,65_shp
+5,5,t148-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t172-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t174-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A45-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A46-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A47-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A48-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A49-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A4A-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A4B-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A4C-sl5-p42-r8,"Newtown To Stant",0,41,66_shp
+5,5,t1A4D-sl5-p172-r8,"Newtown To Stant",0,41,370_shp
+5,5,t1A4E-sl5-p172-r8,"Newtown To Stant",0,41,370_shp
+5,5,t1A4F-sl5-p172-r8,"Newtown To Stant",0,41,370_shp
+5,5,t1A50-sl5-p172-r8,"Newtown To Stant",0,41,370_shp
+5,5,t1A51-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A52-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A53-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A54-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A55-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A56-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A57-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A58-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A59-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A5A-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,t1A5B-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+5,5,tEBC-sl5-p43-r8,"Newtown To Tc",1,41,67_shp
+6,2,t108D-sl2-p549-rC,"Nicholasville Ib",1,53,1353_shp
+6,2,t1236-sl2-p540-rA,"Nicholasville Ob",0,51,1344_shp
+6,2,t1237-sl2-p541-rA,"Nicholasville Ob",0,51,1345_shp
+6,2,t1240-sl2-p132-rB,"Nicholasville Ib",1,52,306_shp
+6,2,t1248-sl2-p54C-rA,"Nicholasville Ib",1,51,1356_shp
+6,2,t156D-sl2-p46-rB,"Nicholasville Ib",1,52,70_shp
+6,2,t156F-sl2-p46-rB,"Nicholasville Ib",1,52,70_shp
+6,2,t1570-sl2-p130-r3C,"Nicholasville Ib",1,54,304_shp
+6,2,t1572-sl2-p130-rB,"Nicholasville Ib",1,52,304_shp
+6,2,t1573-sl2-p131-r3C,"Nicholasville Ib",1,54,305_shp
+6,2,t1574-sl2-p132-rB,"Nicholasville Ib",1,52,306_shp
+6,2,t1575-sl2-p132-r3C,"Nicholasville Ib",1,54,306_shp
+6,2,t1576-sl2-p132-r3C,"Nicholasville Ib",1,54,306_shp
+6,2,t157F-sl2-p54B-rA,"Nicholasville Ib",1,51,1355_shp
+6,2,t1582-sl2-p134-rA,"Nicholasville Ib",1,51,308_shp
+6,2,t17FB-sl2-p44-rA,"Nicholasville Ob",0,51,68_shp
+6,2,t17FC-sl2-p44-rA,"Nicholasville Ob",0,51,68_shp
+6,2,t17FE-sl2-p60D-rA,"Nicholasville Ob",0,51,1549_shp
+6,2,t17FF-sl2-p60D-rA,"Nicholasville Ob",0,51,1549_shp
+6,2,t1800-sl2-p60D-rA,"Nicholasville Ob",0,51,1549_shp
+6,2,t1801-sl2-p46-r3C,"Nicholasville Ib",1,54,70_shp
+6,2,t1802-sl2-p46-rA,"Nicholasville Ib",1,51,70_shp
+6,2,t1809-sl2-p5DA-rA,"Nicholasville Ib",1,51,1498_shp
+6,2,t1A5C-sl2-p44-rA,"Nicholasville Ob",0,51,68_shp
+6,2,t1A5D-sl2-p44-rC,"Nicholasville Ob",0,53,68_shp
+6,2,t1A5E-sl2-p44-rC,"Nicholasville Ob",0,53,68_shp
+6,2,t1A5F-sl2-p44-rC,"Nicholasville Ob",0,53,68_shp
+6,2,t1A60-sl2-p12F-rB,"Nicholasville Ob",0,52,303_shp
+6,2,t1A61-sl2-p540-r51,"Nicholasville Ob",0,55,1344_shp
+6,2,t1A62-sl2-p5D9-r51,"Nicholasville Ob",0,55,1497_shp
+6,2,t1A63-sl2-p46-rA,"Nicholasville Ib",1,51,70_shp
+6,2,t1A64-sl2-p46-rC,"Nicholasville Ib",1,53,70_shp
+6,2,t1A65-sl2-p130-rC,"Nicholasville Ib",1,53,304_shp
+6,2,t1A66-sl2-p130-rA,"Nicholasville Ib",1,51,304_shp
+6,2,t1A67-sl2-p130-rC,"Nicholasville Ib",1,53,304_shp
+6,2,t1A68-sl2-p131-rA,"Nicholasville Ib",1,51,305_shp
+6,2,t1A69-sl2-p132-rC,"Nicholasville Ib",1,53,306_shp
+6,2,t1A6A-sl2-p132-rC,"Nicholasville Ib",1,53,306_shp
+6,2,t1A6B-sl2-p133-rA,"Nicholasville Ib",1,51,307_shp
+6,2,t1A6C-sl2-p134-r51,"Nicholasville Ib",1,55,308_shp
+6,2,t1A6D-sl2-p134-rB,"Nicholasville Ib",1,52,308_shp
+6,2,t1A6E-sl2-p134-rC,"Nicholasville Ib",1,53,308_shp
+6,2,t1A6F-sl2-p134-r3C,"Nicholasville Ib",1,54,308_shp
+6,2,t1A70-sl2-p542-r51,"Nicholasville Ib",1,55,1346_shp
+6,2,t1A71-sl2-p543-rB,"Nicholasville Ib",1,52,1347_shp
+6,2,t1A72-sl2-p543-rC,"Nicholasville Ib",1,53,1347_shp
+6,2,t1A73-sl2-p543-r3C,"Nicholasville Ib",1,54,1347_shp
+6,2,t1A74-sl2-p543-rA,"Nicholasville Ib",1,51,1347_shp
+6,2,t1A75-sl2-p543-r51,"Nicholasville Ib",1,55,1347_shp
+6,2,t1A76-sl2-p543-rB,"Nicholasville Ib",1,52,1347_shp
+6,2,t1A77-sl2-p544-rC,"Nicholasville Ib",1,53,1348_shp
+6,2,t1A78-sl2-p545-r3C,"Nicholasville Ib",1,54,1349_shp
+6,2,t1A79-sl2-p545-rA,"Nicholasville Ib",1,51,1349_shp
+6,2,t1A7A-sl2-p545-r51,"Nicholasville Ib",1,55,1349_shp
+6,2,t1A7B-sl2-p546-rB,"Nicholasville Ib",1,52,1350_shp
+6,2,t1A7C-sl2-p546-rC,"Nicholasville Ib",1,53,1350_shp
+6,2,t1A7D-sl2-p547-r3C,"Nicholasville Ib",1,54,1351_shp
+6,2,t1A7E-sl2-p547-r51,"Nicholasville Ib",1,55,1351_shp
+6,2,t1A7F-sl2-p548-rB,"Nicholasville Ib",1,52,1352_shp
+6,2,t1A80-sl2-p54A-r3C,"Nicholasville Ib",1,54,1354_shp
+6,2,t1A81-sl2-p54B-r51,"Nicholasville Ib",1,55,1355_shp
+6,2,t1A82-sl2-p54C-rB,"Nicholasville Ib",1,52,1356_shp
+6,2,t1A83-sl2-p54D-r51,"Nicholasville Ib",1,55,1357_shp
+6,2,t1A84-sl2-p46-r51,"Nicholasville Ib",1,55,70_shp
+6,2,t1A85-sl2-p5DA-rA,"Nicholasville Ib",1,51,1498_shp
+6,2,t1A86-sl2-p5DA-rA,"Nicholasville Ib",1,51,1498_shp
+6,2,t1B3-sl2-p44-rB,"Nicholasville Ob",0,52,68_shp
+6,2,t1B4-sl2-p44-r3C,"Nicholasville Ob",0,54,68_shp
+6,2,t1B5-sl2-p44-rB,"Nicholasville Ob",0,52,68_shp
+6,2,t1B6-sl2-p44-r3C,"Nicholasville Ob",0,54,68_shp
+6,2,t1B7-sl2-p44-rB,"Nicholasville Ob",0,52,68_shp
+6,2,t1B8-sl2-p44-r3C,"Nicholasville Ob",0,54,68_shp
+6,2,t1B9-sl2-p12A-rB,"Nicholasville Ob",0,52,298_shp
+6,2,t1BA-sl2-p12A-r3C,"Nicholasville Ob",0,54,298_shp
+6,2,t1BB-sl2-p12B-rB,"Nicholasville Ob",0,52,299_shp
+6,2,t1BC-sl2-p12B-r3C,"Nicholasville Ob",0,54,299_shp
+6,2,t1BD-sl2-p12B-r51,"Nicholasville Ob",0,55,299_shp
+6,2,t1BE-sl2-p12B-rC,"Nicholasville Ob",0,53,299_shp
+6,2,t1BF-sl2-p12B-rA,"Nicholasville Ob",0,51,299_shp
+6,2,t1C0-sl2-p12C-rB,"Nicholasville Ob",0,52,300_shp
+6,2,t1C1-sl2-p12C-r3C,"Nicholasville Ob",0,54,300_shp
+6,2,t1C2-sl2-p12C-r51,"Nicholasville Ob",0,55,300_shp
+6,2,t1C3-sl2-p12C-rC,"Nicholasville Ob",0,53,300_shp
+6,2,t1C4-sl2-p12E-rA,"Nicholasville Ob",0,51,302_shp
+6,2,t1C5-sl2-p12E-rB,"Nicholasville Ob",0,52,302_shp
+6,2,t1C6-sl2-p12E-r3C,"Nicholasville Ob",0,54,302_shp
+6,2,t1C7-sl2-p12F-r51,"Nicholasville Ob",0,55,303_shp
+6,2,t1EB-sl2-p44-rA,"Nicholasville Ob",0,51,68_shp
+6,2,t1EC-sl2-p12A-rC,"Nicholasville Ob",0,53,298_shp
+6,2,t1ED-sl2-p12A-rA,"Nicholasville Ob",0,51,298_shp
+6,2,t1EE-sl2-p12B-rC,"Nicholasville Ob",0,53,299_shp
+6,2,t1EF-sl2-p12B-rA,"Nicholasville Ob",0,51,299_shp
+6,2,t1F0-sl2-p12B-rB,"Nicholasville Ob",0,52,299_shp
+6,2,t1F1-sl2-p12B-r3C,"Nicholasville Ob",0,54,299_shp
+6,2,t1F2-sl2-p12B-r51,"Nicholasville Ob",0,55,299_shp
+6,2,t1F3-sl2-p12C-rC,"Nicholasville Ob",0,53,300_shp
+6,2,t1F4-sl2-p12C-rA,"Nicholasville Ob",0,51,300_shp
+6,2,t1F5-sl2-p12C-rB,"Nicholasville Ob",0,52,300_shp
+6,2,t1F6-sl2-p12D-r3C,"Nicholasville Ob",0,54,301_shp
+6,2,t1F7-sl2-p12E-r51,"Nicholasville Ob",0,55,302_shp
+6,2,t1F8-sl2-p12E-rC,"Nicholasville Ob",0,53,302_shp
+6,2,t1F9-sl2-p12C-rA,"Nicholasville Ob",0,51,300_shp
+6,2,t20B-sl2-p547-rA,"Nicholasville Ib",1,51,1351_shp
+6,2,tCA8-sl2-p54D-rA,"Nicholasville Ib",1,51,1357_shp
+6,2,tEF9-sl2-p132-rA,"Nicholasville Ib",1,51,306_shp
+6,3,t1236-sl3-p3E9-rB,"Nicholasville Ob",0,52,1001_shp
+6,3,t1237-sl3-p3E9-rB,"Nicholasville Ob",0,52,1001_shp
+6,3,t123E-sl3-p4A-rA,"Nicholasville Ib",1,51,74_shp
+6,3,t123F-sl3-p143-rA,"Nicholasville Ib",1,51,323_shp
+6,3,t1240-sl3-p144-rA,"Nicholasville Ib",1,51,324_shp
+6,3,t1241-sl3-p143-rA,"Nicholasville Ib",1,51,323_shp
+6,3,t1247-sl3-p555-rB,"Nicholasville Ib",1,52,1365_shp
+6,3,t1248-sl3-p611-rB,"Nicholasville Ib",1,52,1553_shp
+6,3,t1249-sl3-p611-rB,"Nicholasville Ib",1,52,1553_shp
+6,3,t1582-sl3-p145-rB,"Nicholasville Ib",1,52,325_shp
+6,3,t17FE-sl3-p491-rB,"Nicholasville Ob",0,52,1169_shp
+6,3,t17FF-sl3-p491-rB,"Nicholasville Ob",0,52,1169_shp
+6,3,t1800-sl3-p491-rB,"Nicholasville Ob",0,52,1169_shp
+6,3,t1809-sl3-p4A-rB,"Nicholasville Ib",1,52,74_shp
+6,3,t180A-sl3-p611-rB,"Nicholasville Ib",1,52,1553_shp
+6,3,t180B-sl3-p611-rB,"Nicholasville Ib",1,52,1553_shp
+6,3,t1A87-sl3-p553-rA,"Nicholasville Ib",1,51,1363_shp
+6,3,t1A88-sl3-p553-rB,"Nicholasville Ib",1,52,1363_shp
+6,3,t1A89-sl3-p145-rA,"Nicholasville Ib",1,51,325_shp
+6,3,t1A8A-sl3-p554-rB,"Nicholasville Ib",1,52,1364_shp
+6,3,t1A8B-sl3-p554-rA,"Nicholasville Ib",1,51,1364_shp
+6,3,t1B3-sl3-p48-rA,"Nicholasville Ob",0,51,72_shp
+6,3,t1B5-sl3-p48-rA,"Nicholasville Ob",0,51,72_shp
+6,3,t1B7-sl3-p48-rA,"Nicholasville Ob",0,51,72_shp
+6,3,t1B9-sl3-p140-rA,"Nicholasville Ob",0,51,320_shp
+6,3,t1BB-sl3-p141-rA,"Nicholasville Ob",0,51,321_shp
+6,3,t1BD-sl3-p142-rA,"Nicholasville Ob",0,51,322_shp
+6,3,t1BF-sl3-p142-rB,"Nicholasville Ob",0,52,322_shp
+6,3,t1C1-sl3-p142-rA,"Nicholasville Ob",0,51,322_shp
+6,3,t1C3-sl3-p142-rB,"Nicholasville Ob",0,52,322_shp
+6,3,t1C5-sl3-p3E8-rA,"Nicholasville Ob",0,51,1000_shp
+6,3,t1C7-sl3-p141-rB,"Nicholasville Ob",0,52,321_shp
+6,3,t1CD-sl3-p4A-rA,"Nicholasville Ib",1,51,74_shp
+6,3,t1CE-sl3-p4A-rA,"Nicholasville Ib",1,51,74_shp
+6,4,t1A8C-sl4-p4C-rA,"Nicholasville Ob",0,51,76_shp
+6,4,t1A8D-sl4-p55A-rA,"Nicholasville Ib",1,51,1370_shp
+6,4,t1B3-sl4-p4C-rA,"Nicholasville Ob",0,51,76_shp
+6,4,t213-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC92-sl4-p4C-rA,"Nicholasville Ob",0,51,76_shp
+6,4,tC93-sl4-p4C-rA,"Nicholasville Ob",0,51,76_shp
+6,4,tC94-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC95-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC96-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC97-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC98-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC99-sl4-p16A-rA,"Nicholasville Ob",0,51,362_shp
+6,4,tC9A-sl4-p4C-rA,"Nicholasville Ob",0,51,76_shp
+6,4,tC9B-sl4-p4C-rA,"Nicholasville Ob",0,51,76_shp
+6,4,tC9C-sl4-p511-rA,"Nicholasville Ib",1,51,1297_shp
+6,4,tF01-sl4-p511-rA,"Nicholasville Ib",1,51,1297_shp
+6,4,tF02-sl4-p511-rA,"Nicholasville Ib",1,51,1297_shp
+6,4,tF03-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF04-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF05-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF06-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF07-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF08-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF09-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF0A-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF0B-sl4-p559-rA,"Nicholasville Ib",1,51,1369_shp
+6,4,tF0C-sl4-p511-rA,"Nicholasville Ib",1,51,1297_shp
+6,5,t1A8C-sl5-p51-rA,"Nicholasville Ob",0,51,81_shp
+6,5,t1A8D-sl5-p565-rA,"Nicholasville Ib",1,51,1381_shp
+6,5,t1B3-sl5-p51-rA,"Nicholasville Ob",0,51,81_shp
+6,5,t213-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC92-sl5-p51-rA,"Nicholasville Ob",0,51,81_shp
+6,5,tC93-sl5-p51-rA,"Nicholasville Ob",0,51,81_shp
+6,5,tC94-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC95-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC96-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC97-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC98-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC99-sl5-p189-rA,"Nicholasville Ob",0,51,393_shp
+6,5,tC9A-sl5-p51-rA,"Nicholasville Ob",0,51,81_shp
+6,5,tC9B-sl5-p51-rA,"Nicholasville Ob",0,51,81_shp
+6,5,tC9C-sl5-p512-rA,"Nicholasville Ib",1,51,1298_shp
+6,5,tF01-sl5-p512-rA,"Nicholasville Ib",1,51,1298_shp
+6,5,tF02-sl5-p512-rA,"Nicholasville Ib",1,51,1298_shp
+6,5,tF03-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF04-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF05-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF06-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF07-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF08-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF09-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF0A-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF0B-sl5-p564-rA,"Nicholasville Ib",1,51,1380_shp
+6,5,tF0C-sl5-p512-rA,"Nicholasville Ib",1,51,1298_shp
+7,2,t124F-sl2-p4D5-rD,"N Brdway To Cost",0,61,1237_shp
+7,2,t1250-sl2-p4D6-rD,"N Brdway To Cost",0,61,1238_shp
+7,2,t1256-sl2-p10D-rD,"N Brdway To Tc",1,61,269_shp
+7,2,t1257-sl2-p10D-rD,"N Brdway To Tc",1,61,269_shp
+7,2,t14E5-sl2-p5BF-rE,"N Brdway To Tc",1,62,1471_shp
+7,2,t14E7-sl2-p5BF-rE,"N Brdway To Tc",1,62,1471_shp
+7,2,t180F-sl2-p4D7-rD,"N Brdway To Cost",0,61,1239_shp
+7,2,t1810-sl2-p4D7-rD,"N Brdway To Cost",0,61,1239_shp
+7,2,t1811-sl2-p4D7-rD,"N Brdway To Cost",0,61,1239_shp
+7,2,t182C-sl2-p10D-rD,"N Brdway To Tc",1,61,269_shp
+7,2,t182D-sl2-p10D-rD,"N Brdway To Tc",1,61,269_shp
+7,2,t182E-sl2-p5DD-rD,"N Brdway To Tc",1,61,1501_shp
+7,2,t182F-sl2-p5DD-rD,"N Brdway To Tc",1,61,1501_shp
+7,2,t1830-sl2-p5DD-rD,"N Brdway To Tc",1,61,1501_shp
+7,2,t1831-sl2-p5DD-rD,"N Brdway To Tc",1,61,1501_shp
+7,2,t1832-sl2-p57-rD,"N Brdway To Tc",1,61,87_shp
+7,2,t1833-sl2-p57-rD,"N Brdway To Tc",1,61,87_shp
+7,2,t1834-sl2-p57-rD,"N Brdway To Tc",1,61,87_shp
+7,2,t1835-sl2-p57-rD,"N Brdway To Tc",1,61,87_shp
+7,2,t1836-sl2-p57-rD,"N Brdway To Tc",1,61,87_shp
+7,2,t1A8E-sl2-p5DD-rE,"N Brdway To Tc",1,62,1501_shp
+7,2,t1A8F-sl2-p5DD-rE,"N Brdway To Tc",1,62,1501_shp
+7,2,t1A90-sl2-p5DD-rE,"N Brdway To Tc",1,62,1501_shp
+7,2,t1A91-sl2-p5DD-rE,"N Brdway To Tc",1,62,1501_shp
+7,2,t1A92-sl2-p57-rE,"N Brdway To Tc",1,62,87_shp
+7,2,t1A93-sl2-p57-rE,"N Brdway To Tc",1,62,87_shp
+7,2,t1A94-sl2-p57-rE,"N Brdway To Tc",1,62,87_shp
+7,2,t1A95-sl2-p57-rE,"N Brdway To Tc",1,62,87_shp
+7,2,t1A96-sl2-p57-rE,"N Brdway To Tc",1,62,87_shp
+7,2,t1A97-sl2-p10D-rD,"N Brdway To Tc",1,61,269_shp
+7,2,t1A98-sl2-p10D-rD,"N Brdway To Tc",1,61,269_shp
+7,2,t229-sl2-p56-rD,"N Brdway To Cost",0,61,86_shp
+7,2,t22A-sl2-p10A-rE,"N Brdway To Cost",0,62,266_shp
+7,2,t22B-sl2-p10A-rD,"N Brdway To Cost",0,61,266_shp
+7,2,t22C-sl2-p10B-rE,"N Brdway To Cost",0,62,267_shp
+7,2,t22D-sl2-p10B-rD,"N Brdway To Cost",0,61,267_shp
+7,2,t22E-sl2-p10B-rE,"N Brdway To Cost",0,62,267_shp
+7,2,t22F-sl2-p10B-rD,"N Brdway To Cost",0,61,267_shp
+7,2,t230-sl2-p10B-rE,"N Brdway To Cost",0,62,267_shp
+7,2,t231-sl2-p10B-rD,"N Brdway To Cost",0,61,267_shp
+7,2,t232-sl2-p10C-rE,"N Brdway To Cost",0,62,268_shp
+7,2,t233-sl2-p4B8-rD,"N Brdway To Cost",0,61,1208_shp
+7,2,t234-sl2-p4B8-rE,"N Brdway To Cost",0,62,1208_shp
+7,2,t235-sl2-p4B8-rD,"N Brdway To Cost",0,61,1208_shp
+7,2,t236-sl2-p4B8-rE,"N Brdway To Cost",0,62,1208_shp
+7,2,t237-sl2-p4D4-rD,"N Brdway To Cost",0,61,1236_shp
+7,2,t238-sl2-p4D4-rE,"N Brdway To Cost",0,62,1236_shp
+7,2,t239-sl2-p4D4-rD,"N Brdway To Cost",0,61,1236_shp
+7,2,t23A-sl2-p4D4-rE,"N Brdway To Cost",0,62,1236_shp
+7,2,t23B-sl2-p4D4-rD,"N Brdway To Cost",0,61,1236_shp
+7,2,t23C-sl2-p4D4-rE,"N Brdway To Cost",0,62,1236_shp
+7,2,t23D-sl2-p4D4-rD,"N Brdway To Cost",0,61,1236_shp
+7,2,tDDF-sl2-p5BF-rD,"N Brdway To Tc",1,61,1471_shp
+7,2,tF12-sl2-p5BF-rD,"N Brdway To Tc",1,61,1471_shp
+7,3,t124F-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t1250-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t1256-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1257-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t180F-sl3-p4EB-rD,"N Brdway To Cost",0,61,1259_shp
+7,3,t1810-sl3-p4EB-rD,"N Brdway To Cost",0,61,1259_shp
+7,3,t1811-sl3-p4EB-rD,"N Brdway To Cost",0,61,1259_shp
+7,3,t182C-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t182D-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1A97-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1A99-sl3-p5C0-rD,"N Brdway To Tc",1,61,1472_shp
+7,3,t1A9A-sl3-p5E2-rD,"N Brdway To Tc",1,61,1506_shp
+7,3,t1A9B-sl3-p5E2-rD,"N Brdway To Tc",1,61,1506_shp
+7,3,t1A9C-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1A9D-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1A9E-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1A9F-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1AA0-sl3-p59-rD,"N Brdway To Tc",1,61,89_shp
+7,3,t1AA1-sl3-p149-rD,"N Brdway To Tc",1,61,329_shp
+7,3,t229-sl3-p58-rD,"N Brdway To Cost",0,61,88_shp
+7,3,t22B-sl3-p58-rD,"N Brdway To Cost",0,61,88_shp
+7,3,t22D-sl3-p58-rD,"N Brdway To Cost",0,61,88_shp
+7,3,t22F-sl3-p58-rD,"N Brdway To Cost",0,61,88_shp
+7,3,t231-sl3-p146-rD,"N Brdway To Cost",0,61,326_shp
+7,3,t233-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t235-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t237-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t239-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t23B-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,t23D-sl3-p4B9-rD,"N Brdway To Cost",0,61,1209_shp
+7,3,tCB3-sl3-p5C0-rD,"N Brdway To Tc",1,61,1472_shp
+7,3,tCB4-sl3-p5C0-rD,"N Brdway To Tc",1,61,1472_shp
+7,3,tCB5-sl3-p5C0-rD,"N Brdway To Tc",1,61,1472_shp
+7,4,t1AA2-sl4-p55B-rD,"N Brdway To Cost",0,61,1371_shp
+7,4,t1AA3-sl4-p5C1-rD,"N Brdway To Tc",1,61,1473_shp
+7,4,t1AA4-sl4-p5C1-rD,"N Brdway To Tc",1,61,1473_shp
+7,4,t1AA5-sl4-p5C1-rD,"N Brdway To Tc",1,61,1473_shp
+7,4,t1AA6-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AA7-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AA8-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AA9-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AAA-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AAB-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AAC-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t1AAD-sl4-p5B-rD,"N Brdway To Tc",1,61,91_shp
+7,4,t229-sl4-p5A-rD,"N Brdway To Cost",0,61,90_shp
+7,4,t270-sl4-p5C1-rD,"N Brdway To Tc",1,61,1473_shp
+7,4,t272-sl4-p5C1-rD,"N Brdway To Tc",1,61,1473_shp
+7,4,t281-sl4-p514-rD,"N Brdway To Cost",0,61,1300_shp
+7,4,tCA9-sl4-p5A-rD,"N Brdway To Cost",0,61,90_shp
+7,4,tCAA-sl4-p5A-rD,"N Brdway To Cost",0,61,90_shp
+7,4,tCAB-sl4-p5A-rD,"N Brdway To Cost",0,61,90_shp
+7,4,tCAC-sl4-p5A-rD,"N Brdway To Cost",0,61,90_shp
+7,4,tCAD-sl4-p514-rD,"N Brdway To Cost",0,61,1300_shp
+7,4,tCAE-sl4-p514-rD,"N Brdway To Cost",0,61,1300_shp
+7,4,tCAF-sl4-p514-rD,"N Brdway To Cost",0,61,1300_shp
+7,4,tCB0-sl4-p514-rD,"N Brdway To Cost",0,61,1300_shp
+7,4,tCB1-sl4-p514-rD,"N Brdway To Cost",0,61,1300_shp
+7,4,tCB2-sl4-p55B-rD,"N Brdway To Cost",0,61,1371_shp
+7,4,tF12-sl4-p5C1-rD,"N Brdway To Tc",1,61,1473_shp
+7,5,t1AA2-sl5-p566-rD,"N Brdway To Cost",0,61,1382_shp
+7,5,t1AA3-sl5-p5C2-rD,"N Brdway To Tc",1,61,1474_shp
+7,5,t1AA4-sl5-p5C2-rD,"N Brdway To Tc",1,61,1474_shp
+7,5,t1AA5-sl5-p5C2-rD,"N Brdway To Tc",1,61,1474_shp
+7,5,t1AA6-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AA7-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AA8-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AA9-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AAA-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AAB-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AAC-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t1AAD-sl5-p5D-rD,"N Brdway To Tc",1,61,93_shp
+7,5,t229-sl5-p5C-rD,"N Brdway To Cost",0,61,92_shp
+7,5,t270-sl5-p5C2-rD,"N Brdway To Tc",1,61,1474_shp
+7,5,t272-sl5-p5C2-rD,"N Brdway To Tc",1,61,1474_shp
+7,5,t281-sl5-p515-rD,"N Brdway To Cost",0,61,1301_shp
+7,5,tCA9-sl5-p5C-rD,"N Brdway To Cost",0,61,92_shp
+7,5,tCAA-sl5-p5C-rD,"N Brdway To Cost",0,61,92_shp
+7,5,tCAB-sl5-p5C-rD,"N Brdway To Cost",0,61,92_shp
+7,5,tCAC-sl5-p5C-rD,"N Brdway To Cost",0,61,92_shp
+7,5,tCAD-sl5-p515-rD,"N Brdway To Cost",0,61,1301_shp
+7,5,tCAE-sl5-p515-rD,"N Brdway To Cost",0,61,1301_shp
+7,5,tCAF-sl5-p515-rD,"N Brdway To Cost",0,61,1301_shp
+7,5,tCB0-sl5-p515-rD,"N Brdway To Cost",0,61,1301_shp
+7,5,tCB1-sl5-p515-rD,"N Brdway To Cost",0,61,1301_shp
+7,5,tCB2-sl5-p566-rD,"N Brdway To Cost",0,61,1382_shp
+7,5,tF12-sl5-p5C2-rD,"N Brdway To Tc",1,61,1474_shp
+8,2,t1839-sl2-p5E-r10,"N Lime To Annist",0,72,94_shp
+8,2,t183A-sl2-p5E-rF,"N Lime To Annist",0,71,94_shp
+8,2,t183B-sl2-p5E-r10,"N Lime To Annist",0,72,94_shp
+8,2,t183C-sl2-p5E-rF,"N Lime To Annist",0,71,94_shp
+8,2,t183D-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t183E-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t183F-sl2-p1AD-r10,"N Lime To Annist",0,72,429_shp
+8,2,t1840-sl2-p1AD-r10,"N Lime To Annist",0,72,429_shp
+8,2,t1841-sl2-p5E-r10,"N Lime To Annist",0,72,94_shp
+8,2,t1853-sl2-p196-r14,"N Lime To Tc",1,91,406_shp
+8,2,t1854-sl2-p196-r14,"N Lime To Tc",1,91,406_shp
+8,2,t1855-sl2-p196-r14,"N Lime To Tc",1,91,406_shp
+8,2,t1873-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t1AAE-sl2-p5E-rF,"N Lime To Annist",0,71,94_shp
+8,2,t1AAF-sl2-p5F-rF,"N Lime To Tc",1,71,95_shp
+8,2,t1AB0-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t1AB1-sl2-p5F-rF,"N Lime To Tc",1,71,95_shp
+8,2,t1AB2-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t1AB3-sl2-p5F-rF,"N Lime To Tc",1,71,95_shp
+8,2,t1AB4-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t1AB5-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t1AB6-sl2-p194-rF,"N Lime To Tc",1,71,404_shp
+8,2,t1AB7-sl2-p194-r10,"N Lime To Tc",1,72,404_shp
+8,2,t1AB8-sl2-p194-rF,"N Lime To Tc",1,71,404_shp
+8,2,t1AB9-sl2-p194-rF,"N Lime To Tc",1,71,404_shp
+8,2,t1ABA-sl2-p194-r10,"N Lime To Tc",1,72,404_shp
+8,2,t1ABB-sl2-p194-rF,"N Lime To Tc",1,71,404_shp
+8,2,t1ABC-sl2-p194-r10,"N Lime To Tc",1,72,404_shp
+8,2,t1ABD-sl2-p195-rF,"N Lime To Tc",1,71,405_shp
+8,2,t1ABE-sl2-p195-r10,"N Lime To Tc",1,72,405_shp
+8,2,t1ABF-sl2-p195-rF,"N Lime To Tc",1,71,405_shp
+8,2,t1AC0-sl2-p195-r10,"N Lime To Tc",1,72,405_shp
+8,2,t1AC1-sl2-p195-rF,"N Lime To Tc",1,71,405_shp
+8,2,t1AC2-sl2-p195-r10,"N Lime To Tc",1,72,405_shp
+8,2,t1AC3-sl2-p194-rF,"N Lime To Tc",1,71,404_shp
+8,2,t1AC4-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t1AC5-sl2-p5F-r10,"N Lime To Tc",1,72,95_shp
+8,2,t2C6-sl2-p1AB-rF,"N Lime To Annist",0,71,427_shp
+8,2,t2C7-sl2-p1AB-rF,"N Lime To Annist",0,71,427_shp
+8,2,t2C8-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t2C9-sl2-p1AB-rF,"N Lime To Annist",0,71,427_shp
+8,2,t2CA-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t2CB-sl2-p1AB-rF,"N Lime To Annist",0,71,427_shp
+8,2,t2CC-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t2CD-sl2-p1AB-rF,"N Lime To Annist",0,71,427_shp
+8,2,t2CE-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t2CF-sl2-p1AB-rF,"N Lime To Annist",0,71,427_shp
+8,2,t2D0-sl2-p1AB-r10,"N Lime To Annist",0,72,427_shp
+8,2,t2D1-sl2-p1AC-rF,"N Lime To Annist",0,71,428_shp
+8,2,t2D2-sl2-p1AC-r10,"N Lime To Annist",0,72,428_shp
+8,2,t2D3-sl2-p1AC-rF,"N Lime To Annist",0,71,428_shp
+8,2,t2D6-sl2-p5F-rF,"N Lime To Tc",1,71,95_shp
+8,2,t2F5-sl2-p194-r10,"N Lime To Tc",1,72,404_shp
+8,3,t183B-sl3-p60-rF,"N Lime To Annist",0,71,96_shp
+8,3,t183D-sl3-p60-rF,"N Lime To Annist",0,71,96_shp
+8,3,t183E-sl3-p1AE-rF,"N Lime To Annist",0,71,430_shp
+8,3,t183F-sl3-p2B0-rF,"N Lime To Annist",0,71,688_shp
+8,3,t1840-sl3-p60-rF,"N Lime To Annist",0,71,96_shp
+8,3,t1841-sl3-p60-rF,"N Lime To Annist",0,71,96_shp
+8,3,t1853-sl3-p494-r14,"N Lime To Tc",1,91,1172_shp
+8,3,t1854-sl3-p494-r14,"N Lime To Tc",1,91,1172_shp
+8,3,t1855-sl3-p494-r14,"N Lime To Tc",1,91,1172_shp
+8,3,t186D-sl3-p61-rF,"N Lime To Tc",1,71,97_shp
+8,3,t1AB2-sl3-p61-rF,"N Lime To Tc",1,71,97_shp
+8,3,t1AB4-sl3-p61-rF,"N Lime To Tc",1,71,97_shp
+8,3,t1AB5-sl3-p61-rF,"N Lime To Tc",1,71,97_shp
+8,3,t1ABA-sl3-p14C-rF,"N Lime To Tc",1,71,332_shp
+8,3,t1AC0-sl3-p14E-rF,"N Lime To Tc",1,71,334_shp
+8,3,t1AC2-sl3-p14E-rF,"N Lime To Tc",1,71,334_shp
+8,3,t1AC6-sl3-p61-rF,"N Lime To Tc",1,71,97_shp
+8,3,t1AC7-sl3-p14E-rF,"N Lime To Tc",1,71,334_shp
+8,3,t1AC8-sl3-p14E-rF,"N Lime To Tc",1,71,334_shp
+8,3,t1AC9-sl3-p14E-rF,"N Lime To Tc",1,71,334_shp
+8,3,t292-sl3-p60-rF,"N Lime To Annist",0,71,96_shp
+8,3,t2C8-sl3-p1AF-rF,"N Lime To Annist",0,71,431_shp
+8,3,t2CA-sl3-p2B0-rF,"N Lime To Annist",0,71,688_shp
+8,3,t2CC-sl3-p2B0-rF,"N Lime To Annist",0,71,688_shp
+8,3,t2CE-sl3-p2B0-rF,"N Lime To Annist",0,71,688_shp
+8,3,t2D0-sl3-p2B0-rF,"N Lime To Annist",0,71,688_shp
+8,3,t2D2-sl3-p2B0-rF,"N Lime To Annist",0,71,688_shp
+8,3,t2D4-sl3-p61-rF,"N Lime To Tc",1,71,97_shp
+8,3,t2DE-sl3-p14D-rF,"N Lime To Tc",1,71,333_shp
+8,3,t2E0-sl3-p14D-rF,"N Lime To Tc",1,71,333_shp
+8,4,t185E-sl4-p62-rF,"N Lime To Annist",0,71,98_shp
+8,4,t185F-sl4-p62-rF,"N Lime To Annist",0,71,98_shp
+8,4,t1860-sl4-p4FB-rF,"N Lime To Annist",0,71,1275_shp
+8,4,t1861-sl4-p4FC-rF,"N Lime To Annist",0,71,1276_shp
+8,4,t1862-sl4-p4FC-rF,"N Lime To Annist",0,71,1276_shp
+8,4,t1863-sl4-p4FC-rF,"N Lime To Annist",0,71,1276_shp
+8,4,t1864-sl4-p4FC-rF,"N Lime To Annist",0,71,1276_shp
+8,4,t1865-sl4-p4FC-rF,"N Lime To Annist",0,71,1276_shp
+8,4,t1866-sl4-p4FC-rF,"N Lime To Annist",0,71,1276_shp
+8,4,t1867-sl4-p62-rF,"N Lime To Annist",0,71,98_shp
+8,4,t1ACA-sl4-p62-rF,"N Lime To Annist",0,71,98_shp
+8,4,t1ACB-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t1ACC-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t1ACD-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t1ACE-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t1ACF-sl4-p16D-rF,"N Lime To Tc",1,71,365_shp
+8,4,t1AD0-sl4-p16D-rF,"N Lime To Tc",1,71,365_shp
+8,4,t1AD1-sl4-p16D-rF,"N Lime To Tc",1,71,365_shp
+8,4,t1AD2-sl4-p16D-rF,"N Lime To Tc",1,71,365_shp
+8,4,t1AD3-sl4-p16D-rF,"N Lime To Tc",1,71,365_shp
+8,4,t1AD4-sl4-p16D-rF,"N Lime To Tc",1,71,365_shp
+8,4,t1AD5-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t1AD6-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t1AD7-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t292-sl4-p62-rF,"N Lime To Annist",0,71,98_shp
+8,4,t2D4-sl4-p63-rF,"N Lime To Tc",1,71,99_shp
+8,4,t923-sl4-p5E9-rF,"N Lime To Annist",0,71,1513_shp
+8,5,t185E-sl5-p64-rF,"N Lime To Annist",0,71,100_shp
+8,5,t185F-sl5-p64-rF,"N Lime To Annist",0,71,100_shp
+8,5,t1860-sl5-p1F5-rF,"N Lime To Annist",0,71,501_shp
+8,5,t1861-sl5-p567-rF,"N Lime To Annist",0,71,1383_shp
+8,5,t1862-sl5-p567-rF,"N Lime To Annist",0,71,1383_shp
+8,5,t1863-sl5-p567-rF,"N Lime To Annist",0,71,1383_shp
+8,5,t1864-sl5-p567-rF,"N Lime To Annist",0,71,1383_shp
+8,5,t1865-sl5-p567-rF,"N Lime To Annist",0,71,1383_shp
+8,5,t1866-sl5-p567-rF,"N Lime To Annist",0,71,1383_shp
+8,5,t1867-sl5-p64-rF,"N Lime To Annist",0,71,100_shp
+8,5,t1ACA-sl5-p64-rF,"N Lime To Annist",0,71,100_shp
+8,5,t1ACB-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t1ACC-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t1ACD-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t1ACE-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t1ACF-sl5-p176-rF,"N Lime To Tc",1,71,374_shp
+8,5,t1AD0-sl5-p176-rF,"N Lime To Tc",1,71,374_shp
+8,5,t1AD1-sl5-p176-rF,"N Lime To Tc",1,71,374_shp
+8,5,t1AD2-sl5-p176-rF,"N Lime To Tc",1,71,374_shp
+8,5,t1AD3-sl5-p176-rF,"N Lime To Tc",1,71,374_shp
+8,5,t1AD4-sl5-p176-rF,"N Lime To Tc",1,71,374_shp
+8,5,t1AD5-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t1AD6-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t1AD7-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t292-sl5-p64-rF,"N Lime To Annist",0,71,100_shp
+8,5,t2D4-sl5-p65-rF,"N Lime To Tc",1,71,101_shp
+8,5,t923-sl5-p5EE-rF,"N Lime To Annist",0,71,1518_shp
+9,2,t126C-sl2-p192-r11,"Versailles/emers",0,81,402_shp
+9,2,t126D-sl2-p193-r11,"Versailles/emers",0,81,403_shp
+9,2,t1518-sl2-p69-r11,"Versailles To Tc",1,81,105_shp
+9,2,t1519-sl2-p69-r12,"Versailles To Tc",1,82,105_shp
+9,2,t151A-sl2-p69-r11,"Versailles To Tc",1,81,105_shp
+9,2,t152B-sl2-p4DA-r12,"Versailles To Tc",1,82,1242_shp
+9,2,t152C-sl2-p4DB-r11,"Versailles To Tc",1,81,1243_shp
+9,2,t152D-sl2-p4DB-r11,"Versailles To Tc",1,81,1243_shp
+9,2,t152E-sl2-p69-r11,"Versailles To Tc",1,81,105_shp
+9,2,t1530-sl2-p18E-r11,"Versailles To Tc",1,81,398_shp
+9,2,t1531-sl2-p18E-r11,"Versailles To Tc",1,81,398_shp
+9,2,t1532-sl2-p18E-r11,"Versailles To Tc",1,81,398_shp
+9,2,t1533-sl2-p18E-r11,"Versailles To Tc",1,81,398_shp
+9,2,t1534-sl2-p18E-r11,"Versailles To Tc",1,81,398_shp
+9,2,t1535-sl2-p4D9-r11,"Versailles To Tc",1,81,1241_shp
+9,2,t1536-sl2-p4D9-r11,"Versailles To Tc",1,81,1241_shp
+9,2,t1888-sl2-p67-r11,"Versailles/palom",0,81,103_shp
+9,2,t1889-sl2-p67-r11,"Versailles/palom",0,81,103_shp
+9,2,t188A-sl2-p309-r11,"Versailles/palom",0,81,777_shp
+9,2,t188B-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t188C-sl2-p18E-r11,"Versailles To Tc",1,81,398_shp
+9,2,t188D-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t188E-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t188F-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t1890-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t1891-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t1892-sl2-p18E-r12,"Versailles To Tc",1,82,398_shp
+9,2,t1893-sl2-p4D9-r12,"Versailles To Tc",1,82,1241_shp
+9,2,t2FD-sl2-p66-r11,"Versailles/emers",0,81,102_shp
+9,2,t2FE-sl2-p66-r12,"Versailles/emers",0,82,102_shp
+9,2,t2FF-sl2-p190-r11,"Versailles/emers",0,81,400_shp
+9,2,t300-sl2-p190-r12,"Versailles/emers",0,82,400_shp
+9,2,t301-sl2-p190-r11,"Versailles/emers",0,81,400_shp
+9,2,t302-sl2-p190-r12,"Versailles/emers",0,82,400_shp
+9,2,t303-sl2-p190-r11,"Versailles/emers",0,81,400_shp
+9,2,t304-sl2-p190-r12,"Versailles/emers",0,82,400_shp
+9,2,t305-sl2-p190-r11,"Versailles/emers",0,81,400_shp
+9,2,t306-sl2-p190-r12,"Versailles/emers",0,82,400_shp
+9,2,t307-sl2-p191-r11,"Versailles/emers",0,81,401_shp
+9,2,t308-sl2-p191-r12,"Versailles/emers",0,82,401_shp
+9,2,t309-sl2-p191-r11,"Versailles/emers",0,81,401_shp
+9,2,t30A-sl2-p191-r12,"Versailles/emers",0,82,401_shp
+9,2,t30B-sl2-p191-r11,"Versailles/emers",0,81,401_shp
+9,2,t30C-sl2-p191-r12,"Versailles/emers",0,82,401_shp
+9,2,t30D-sl2-p191-r11,"Versailles/emers",0,81,401_shp
+9,2,t30E-sl2-p192-r12,"Versailles/emers",0,82,402_shp
+9,2,t30F-sl2-p192-r11,"Versailles/emers",0,81,402_shp
+9,2,t310-sl2-p192-r12,"Versailles/emers",0,82,402_shp
+9,2,t311-sl2-p192-r11,"Versailles/emers",0,81,402_shp
+9,2,t34D-sl2-p297-r11,"Versailles To Tc",1,81,663_shp
+9,2,t34E-sl2-p297-r12,"Versailles To Tc",1,82,663_shp
+9,3,t126C-sl3-p4ED-r11,"Versailles/emers",0,81,1261_shp
+9,3,t126D-sl3-p4EE-r11,"Versailles/emers",0,81,1262_shp
+9,3,t1518-sl3-p6E-r11,"Versailles To Tc",1,81,110_shp
+9,3,t151A-sl3-p6E-r11,"Versailles To Tc",1,81,110_shp
+9,3,t151C-sl3-p6E-r11,"Versailles To Tc",1,81,110_shp
+9,3,t151E-sl3-p1AA-r11,"Versailles To Tc",1,81,426_shp
+9,3,t1520-sl3-p1AA-r11,"Versailles To Tc",1,81,426_shp
+9,3,t1522-sl3-p1AA-r11,"Versailles To Tc",1,81,426_shp
+9,3,t1524-sl3-p1AA-r11,"Versailles To Tc",1,81,426_shp
+9,3,t1526-sl3-p1AA-r11,"Versailles To Tc",1,81,426_shp
+9,3,t1528-sl3-p1F6-r11,"Versailles To Tc",1,81,502_shp
+9,3,t152C-sl3-p4F0-r11,"Versailles To Tc",1,81,1264_shp
+9,3,t152D-sl3-p4F0-r11,"Versailles To Tc",1,81,1264_shp
+9,3,t1539-sl3-p4F0-r11,"Versailles To Tc",1,81,1264_shp
+9,3,t1888-sl3-p6C-r11,"Versailles/palom",0,81,108_shp
+9,3,t1889-sl3-p6C-r11,"Versailles/palom",0,81,108_shp
+9,3,t188A-sl3-p150-r11,"Versailles/palom",0,81,336_shp
+9,3,t1AD8-sl3-p1F6-r11,"Versailles To Tc",1,81,502_shp
+9,3,t2FD-sl3-p6B-r11,"Versailles/emers",0,81,107_shp
+9,3,t2FF-sl3-p14F-r11,"Versailles/emers",0,81,335_shp
+9,3,t301-sl3-p14F-r11,"Versailles/emers",0,81,335_shp
+9,3,t303-sl3-p14F-r11,"Versailles/emers",0,81,335_shp
+9,3,t305-sl3-p14F-r11,"Versailles/emers",0,81,335_shp
+9,3,t307-sl3-p2B2-r11,"Versailles/emers",0,81,690_shp
+9,3,t309-sl3-p2B2-r11,"Versailles/emers",0,81,690_shp
+9,3,t30B-sl3-p2B2-r11,"Versailles/emers",0,81,690_shp
+9,3,t30D-sl3-p2B2-r11,"Versailles/emers",0,81,690_shp
+9,3,t30F-sl3-p4ED-r11,"Versailles/emers",0,81,1261_shp
+9,3,t311-sl3-p4ED-r11,"Versailles/emers",0,81,1261_shp
+9,3,tD08-sl3-p4EF-r11,"Versailles To Tc",1,81,1263_shp
+9,4,t153A-sl4-p4BB-r11,"Versailles To Tc",1,81,1211_shp
+9,4,t1749-sl4-p501-r11,"Versailles To Tc",1,81,1281_shp
+9,4,t1AD9-sl4-p500-r11,"Versailles/emers",0,81,1280_shp
+9,4,t1ADA-sl4-p4BB-r11,"Versailles To Tc",1,81,1211_shp
+9,4,t1ADB-sl4-p501-r11,"Versailles To Tc",1,81,1281_shp
+9,4,t1ADC-sl4-p501-r11,"Versailles To Tc",1,81,1281_shp
+9,4,t1ADD-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,t1ADE-sl4-p501-r11,"Versailles To Tc",1,81,1281_shp
+9,4,t2FD-sl4-p4BA-r11,"Versailles/emers",0,81,1210_shp
+9,4,t356-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,t36A-sl4-p501-r11,"Versailles To Tc",1,81,1281_shp
+9,4,tCEB-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,tCED-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,tCEF-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,tCF1-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,tCF3-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,tCF5-sl4-p502-r11,"Versailles To Tc",1,81,1282_shp
+9,4,tCF7-sl4-p4BA-r11,"Versailles/emers",0,81,1210_shp
+9,4,tCF8-sl4-p4FD-r11,"Versailles/emers",0,81,1277_shp
+9,4,tCF9-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,tCFA-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,tCFB-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,tCFC-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,tCFD-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,tCFE-sl4-p4FE-r11,"Versailles/emers",0,81,1278_shp
+9,4,tCFF-sl4-p4FF-r11,"Versailles/emers",0,81,1279_shp
+9,4,tD00-sl4-p4FF-r11,"Versailles/emers",0,81,1279_shp
+9,5,t153A-sl5-p519-r11,"Versailles To Tc",1,81,1305_shp
+9,5,t1749-sl5-p56C-r11,"Versailles To Tc",1,81,1388_shp
+9,5,t1AD9-sl5-p56B-r11,"Versailles/emers",0,81,1387_shp
+9,5,t1ADA-sl5-p519-r11,"Versailles To Tc",1,81,1305_shp
+9,5,t1ADB-sl5-p56C-r11,"Versailles To Tc",1,81,1388_shp
+9,5,t1ADC-sl5-p56C-r11,"Versailles To Tc",1,81,1388_shp
+9,5,t1ADD-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,t1ADE-sl5-p56C-r11,"Versailles To Tc",1,81,1388_shp
+9,5,t2FD-sl5-p518-r11,"Versailles/emers",0,81,1304_shp
+9,5,t356-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,t36A-sl5-p56C-r11,"Versailles To Tc",1,81,1388_shp
+9,5,tCEB-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,tCED-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,tCEF-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,tCF1-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,tCF3-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,tCF5-sl5-p56D-r11,"Versailles To Tc",1,81,1389_shp
+9,5,tCF7-sl5-p518-r11,"Versailles/emers",0,81,1304_shp
+9,5,tCF8-sl5-p568-r11,"Versailles/emers",0,81,1384_shp
+9,5,tCF9-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,tCFA-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,tCFB-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,tCFC-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,tCFD-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,tCFE-sl5-p569-r11,"Versailles/emers",0,81,1385_shp
+9,5,tCFF-sl5-p56A-r11,"Versailles/emers",0,81,1386_shp
+9,5,tD00-sl5-p56A-r11,"Versailles/emers",0,81,1386_shp
+10,2,t1271-sl2-p4DC-r14,"Estlnd-Creative",0,91,1244_shp
+10,2,t1272-sl2-p4DC-r14,"Estlnd-Creative",0,91,1244_shp
+10,2,t1279-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t127A-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t127B-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t127C-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t189A-sl2-p75-r14,"Estlnd-Anniston",0,91,117_shp
+10,2,t189B-sl2-p75-r14,"Estlnd-Anniston",0,91,117_shp
+10,2,t189C-sl2-p75-r14,"Estlnd-Anniston",0,91,117_shp
+10,2,t1ADF-sl2-p19D-r15,"Eastland To Tc",1,92,413_shp
+10,2,t1AE0-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t1AE1-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AE2-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t1AE3-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AE4-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t1AE5-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AE6-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t1AE7-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AE8-sl2-p19E-r14,"Eastland To Tc",1,91,414_shp
+10,2,t1AE9-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AEA-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AEB-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AEC-sl2-p19E-r15,"Eastland To Tc",1,92,414_shp
+10,2,t1AED-sl2-p19F-r14,"Eastland To Tc",1,91,415_shp
+10,2,t1AEE-sl2-p19F-r14,"Eastland To Tc",1,91,415_shp
+10,2,t1AEF-sl2-p19F-r14,"Eastland To Tc",1,91,415_shp
+10,2,t36B-sl2-p74-r14,"Estlnd-Creative",0,91,116_shp
+10,2,t36C-sl2-p114-r15,"Estlnd-Creative",0,92,276_shp
+10,2,t36D-sl2-p114-r14,"Estlnd-Creative",0,91,276_shp
+10,2,t36E-sl2-p114-r15,"Estlnd-Creative",0,92,276_shp
+10,2,t36F-sl2-p114-r14,"Estlnd-Creative",0,91,276_shp
+10,2,t370-sl2-p114-r15,"Estlnd-Creative",0,92,276_shp
+10,2,t371-sl2-p114-r14,"Estlnd-Creative",0,91,276_shp
+10,2,t372-sl2-p114-r15,"Estlnd-Creative",0,92,276_shp
+10,2,t373-sl2-p114-r14,"Estlnd-Creative",0,91,276_shp
+10,2,t374-sl2-p115-r15,"Estlnd-Creative",0,92,277_shp
+10,2,t375-sl2-p115-r14,"Estlnd-Creative",0,91,277_shp
+10,2,t376-sl2-p115-r15,"Estlnd-Creative",0,92,277_shp
+10,2,t377-sl2-p115-r14,"Estlnd-Creative",0,91,277_shp
+10,2,t378-sl2-p115-r15,"Estlnd-Creative",0,92,277_shp
+10,2,t379-sl2-p116-r14,"Estlnd-Creative",0,91,278_shp
+10,2,t37A-sl2-p116-r15,"Estlnd-Creative",0,92,278_shp
+10,2,t37B-sl2-p116-r14,"Estlnd-Creative",0,91,278_shp
+10,2,t37C-sl2-p116-r15,"Estlnd-Creative",0,92,278_shp
+10,2,t37D-sl2-p116-r14,"Estlnd-Creative",0,91,278_shp
+10,2,t37E-sl2-p116-r15,"Estlnd-Creative",0,92,278_shp
+10,2,t37F-sl2-p116-r14,"Estlnd-Creative",0,91,278_shp
+10,2,t385-sl2-p76-r14,"Eastland To Tc",1,91,118_shp
+10,2,t386-sl2-p76-r15,"Eastland To Tc",1,92,118_shp
+10,2,t946-sl2-p19F-r15,"Eastland To Tc",1,92,415_shp
+10,2,tAB9-sl2-p19C-r14,"Eastland To Tc",1,91,412_shp
+10,3,t1271-sl3-p152-r14,"Estlnd-Creative",0,91,338_shp
+10,3,t1272-sl3-p152-r14,"Estlnd-Creative",0,91,338_shp
+10,3,t1273-sl3-p497-r14,"Eastland To Tc",1,91,1175_shp
+10,3,t1279-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t127A-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t127B-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t127C-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t127E-sl3-p497-r14,"Eastland To Tc",1,91,1175_shp
+10,3,t189A-sl3-p78-r14,"Estlnd-Anniston",0,91,120_shp
+10,3,t189B-sl3-p78-r14,"Estlnd-Anniston",0,91,120_shp
+10,3,t189C-sl3-p78-r14,"Estlnd-Anniston",0,91,120_shp
+10,3,t1AE2-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t1AE4-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t1AE6-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t1AE8-sl3-p155-r14,"Eastland To Tc",1,91,341_shp
+10,3,t36B-sl3-p77-r14,"Estlnd-Creative",0,91,119_shp
+10,3,t36D-sl3-p77-r14,"Estlnd-Creative",0,91,119_shp
+10,3,t36F-sl3-p77-r14,"Estlnd-Creative",0,91,119_shp
+10,3,t371-sl3-p77-r14,"Estlnd-Creative",0,91,119_shp
+10,3,t373-sl3-p151-r14,"Estlnd-Creative",0,91,337_shp
+10,3,t375-sl3-p151-r14,"Estlnd-Creative",0,91,337_shp
+10,3,t377-sl3-p151-r14,"Estlnd-Creative",0,91,337_shp
+10,3,t379-sl3-p151-r14,"Estlnd-Creative",0,91,337_shp
+10,3,t37B-sl3-p2B7-r14,"Estlnd-Creative",0,91,695_shp
+10,3,t37D-sl3-p151-r14,"Estlnd-Creative",0,91,337_shp
+10,3,t37F-sl3-p152-r14,"Estlnd-Creative",0,91,338_shp
+10,3,t39B-sl3-p497-r14,"Eastland To Tc",1,91,1175_shp
+10,3,t3AD-sl3-p79-r14,"Eastland To Tc",1,91,121_shp
+10,3,tAB9-sl3-p153-r14,"Eastland To Tc",1,91,339_shp
+10,3,tD17-sl3-p154-r14,"Eastland To Tc",1,91,340_shp
+10,4,t1AF0-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,t1AF1-sl4-p16E-r14,"Eastland To Tc",1,91,366_shp
+10,4,t1AF2-sl4-p16E-r14,"Eastland To Tc",1,91,366_shp
+10,4,t1AF3-sl4-p2F7-r14,"Eastland To Tc",1,91,759_shp
+10,4,t1AF4-sl4-p503-r14,"Eastland To Tc",1,91,1283_shp
+10,4,t1AF5-sl4-p503-r14,"Eastland To Tc",1,91,1283_shp
+10,4,t1AF6-sl4-p503-r14,"Eastland To Tc",1,91,1283_shp
+10,4,t1AF7-sl4-p503-r14,"Eastland To Tc",1,91,1283_shp
+10,4,t1AF8-sl4-p503-r14,"Eastland To Tc",1,91,1283_shp
+10,4,t1AF9-sl4-p503-r14,"Eastland To Tc",1,91,1283_shp
+10,4,t1AFA-sl4-p2F7-r14,"Eastland To Tc",1,91,759_shp
+10,4,t1AFB-sl4-p2F7-r14,"Eastland To Tc",1,91,759_shp
+10,4,t1AFC-sl4-p2F7-r14,"Eastland To Tc",1,91,759_shp
+10,4,t1AFD-sl4-p617-r14,"Eastland To Tc",1,91,1559_shp
+10,4,t36B-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,t385-sl4-p7B-r14,"Eastland To Tc",1,91,123_shp
+10,4,t3C3-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD0C-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD0D-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD0E-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD0F-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD10-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD11-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD12-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD13-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD14-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,4,tD15-sl4-p7A-r14,"Estlnd-Creative",0,91,122_shp
+10,5,t1AF0-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,t1AF1-sl5-p177-r14,"Eastland To Tc",1,91,375_shp
+10,5,t1AF2-sl5-p177-r14,"Eastland To Tc",1,91,375_shp
+10,5,t1AF3-sl5-p366-r14,"Eastland To Tc",1,91,870_shp
+10,5,t1AF4-sl5-p56E-r14,"Eastland To Tc",1,91,1390_shp
+10,5,t1AF5-sl5-p56E-r14,"Eastland To Tc",1,91,1390_shp
+10,5,t1AF6-sl5-p56E-r14,"Eastland To Tc",1,91,1390_shp
+10,5,t1AF7-sl5-p56E-r14,"Eastland To Tc",1,91,1390_shp
+10,5,t1AF8-sl5-p56E-r14,"Eastland To Tc",1,91,1390_shp
+10,5,t1AF9-sl5-p56E-r14,"Eastland To Tc",1,91,1390_shp
+10,5,t1AFA-sl5-p366-r14,"Eastland To Tc",1,91,870_shp
+10,5,t1AFB-sl5-p366-r14,"Eastland To Tc",1,91,870_shp
+10,5,t1AFC-sl5-p366-r14,"Eastland To Tc",1,91,870_shp
+10,5,t1AFD-sl5-p61A-r14,"Eastland To Tc",1,91,1562_shp
+10,5,t36B-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,t385-sl5-p7D-r14,"Eastland To Tc",1,91,125_shp
+10,5,t3C3-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD0C-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD0D-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD0E-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD0F-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD10-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD11-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD12-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD13-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD14-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+10,5,tD15-sl5-p7C-r14,"Estlnd-Creative",0,91,124_shp
+11,2,t117B-sl2-p666-r16,"Hamburg To Tc",1,101,1638_shp
+11,2,t1280-sl2-p665-r16,"Hamburg To Costc",0,101,1637_shp
+11,2,t18A0-sl2-p63F-r16,"Hamburg-Alysheba",0,101,1599_shp
+11,2,t18A1-sl2-p63F-r16,"Hamburg-Alysheba",0,101,1599_shp
+11,2,t18A2-sl2-p63F-r16,"Hamburg-Alysheba",0,101,1599_shp
+11,2,t18A6-sl2-p659-r16,"Hamburg To Tc",1,101,1625_shp
+11,2,t18A7-sl2-p65A-r16,"Hamburg To Tc",1,101,1626_shp
+11,2,t1AFF-sl2-p63E-r16,"Hamburg To Costc",0,101,1598_shp
+11,2,t1B01-sl2-p63E-r17,"Hamburg To Costc",0,102,1598_shp
+11,2,t1B02-sl2-p63E-r18,"Hamburg To Costc",0,103,1598_shp
+11,2,t1B03-sl2-p63E-r16,"Hamburg To Costc",0,101,1598_shp
+11,2,t1B04-sl2-p63E-r17,"Hamburg To Costc",0,102,1598_shp
+11,2,t1B05-sl2-p63E-r18,"Hamburg To Costc",0,103,1598_shp
+11,2,t1B06-sl2-p63E-r17,"Hamburg To Costc",0,102,1598_shp
+11,2,t1B07-sl2-p656-r16,"Hamburg To Costc",0,101,1622_shp
+11,2,t1B08-sl2-p657-r18,"Hamburg To Costc",0,103,1623_shp
+11,2,t1B14-sl2-p643-r17,"Hamburg To Tc",1,102,1603_shp
+11,2,t1B1D-sl2-p65C-r17,"Hamburg To Tc",1,102,1628_shp
+11,2,t1B1E-sl2-p65C-r18,"Hamburg To Tc",1,103,1628_shp
+11,2,t1E68-sl2-p640-r17,"Hamburg To Polo",0,102,1600_shp
+11,2,t1E69-sl2-p640-r18,"Hamburg To Polo",0,103,1600_shp
+11,2,t1E6A-sl2-p642-r16,"Hamburg To Tc",1,101,1602_shp
+11,2,t1E6B-sl2-p641-r17,"Hamburg To Tc",1,102,1601_shp
+11,2,t1E6C-sl2-p658-r18,"Hamburg To Tc",1,103,1624_shp
+11,2,t1E6D-sl2-p643-r16,"Hamburg To Tc",1,101,1603_shp
+11,2,t1E6E-sl2-p643-r17,"Hamburg To Tc",1,102,1603_shp
+11,2,t1E6F-sl2-p643-r18,"Hamburg To Tc",1,103,1603_shp
+11,2,t1E70-sl2-p643-r16,"Hamburg To Tc",1,101,1603_shp
+11,2,t1E71-sl2-p643-r17,"Hamburg To Tc",1,102,1603_shp
+11,2,t1E72-sl2-p643-r16,"Hamburg To Tc",1,101,1603_shp
+11,2,t1E73-sl2-p65C-r16,"Hamburg To Tc",1,101,1628_shp
+11,2,t1E74-sl2-p65C-r18,"Hamburg To Tc",1,103,1628_shp
+11,2,t1E75-sl2-p65A-r16,"Hamburg To Tc",1,101,1626_shp
+11,2,t40F-sl2-p63E-r16,"Hamburg To Costc",0,101,1598_shp
+11,2,t410-sl2-p63E-r18,"Hamburg To Costc",0,103,1598_shp
+11,2,t411-sl2-p63E-r16,"Hamburg To Costc",0,101,1598_shp
+11,2,t412-sl2-p63E-r17,"Hamburg To Costc",0,102,1598_shp
+11,2,t413-sl2-p654-r18,"Hamburg To Costc",0,103,1620_shp
+11,2,t414-sl2-p654-r16,"Hamburg To Costc",0,101,1620_shp
+11,2,t415-sl2-p654-r17,"Hamburg To Costc",0,102,1620_shp
+11,2,t416-sl2-p655-r18,"Hamburg To Costc",0,103,1621_shp
+11,2,t417-sl2-p655-r16,"Hamburg To Costc",0,101,1621_shp
+11,2,t418-sl2-p655-r17,"Hamburg To Costc",0,102,1621_shp
+11,2,t419-sl2-p655-r18,"Hamburg To Costc",0,103,1621_shp
+11,2,t41A-sl2-p655-r16,"Hamburg To Costc",0,101,1621_shp
+11,2,t41B-sl2-p655-r17,"Hamburg To Costc",0,102,1621_shp
+11,2,t41C-sl2-p655-r18,"Hamburg To Costc",0,103,1621_shp
+11,2,tAA7-sl2-p643-r18,"Hamburg To Tc",1,103,1603_shp
+11,2,tAA8-sl2-p643-r16,"Hamburg To Tc",1,101,1603_shp
+11,2,tAA9-sl2-p643-r17,"Hamburg To Tc",1,102,1603_shp
+11,2,tAAA-sl2-p643-r18,"Hamburg To Tc",1,103,1603_shp
+11,2,tAAD-sl2-p65B-r18,"Hamburg To Tc",1,103,1627_shp
+11,2,tAAE-sl2-p65B-r16,"Hamburg To Tc",1,101,1627_shp
+11,2,tAAF-sl2-p65B-r17,"Hamburg To Tc",1,102,1627_shp
+11,2,tAB0-sl2-p65B-r18,"Hamburg To Tc",1,103,1627_shp
+11,2,tAB1-sl2-p65B-r16,"Hamburg To Tc",1,101,1627_shp
+11,2,tAB2-sl2-p65B-r17,"Hamburg To Tc",1,102,1627_shp
+11,2,tAB3-sl2-p65B-r18,"Hamburg To Tc",1,103,1627_shp
+11,2,tAB4-sl2-p65B-r16,"Hamburg To Tc",1,101,1627_shp
+11,3,t174A-sl3-p49B-r17,"Hamburg To Tc",1,102,1179_shp
+11,3,t18A0-sl3-p667-r16,"Hamburg-Alysheba",0,101,1639_shp
+11,3,t18A1-sl3-p667-r16,"Hamburg-Alysheba",0,101,1639_shp
+11,3,t18A2-sl3-p667-r16,"Hamburg-Alysheba",0,101,1639_shp
+11,3,t1B03-sl3-p84-r16,"Hamburg-Alysheba",0,101,132_shp
+11,3,t1B05-sl3-p84-r16,"Hamburg-Alysheba",0,101,132_shp
+11,3,t1B06-sl3-p39F-r16,"Hamburg To Costc",0,101,927_shp
+11,3,t1B07-sl3-p613-r17,"Hamburg To Costc",0,102,1555_shp
+11,3,t1B08-sl3-p667-r16,"Hamburg-Alysheba",0,101,1639_shp
+11,3,t1B09-sl3-p667-r16,"Hamburg-Alysheba",0,101,1639_shp
+11,3,t1B1E-sl3-p49B-r16,"Hamburg To Tc",1,101,1179_shp
+11,3,t1B25-sl3-p3A0-r17,"Hamburg To Tc",1,102,928_shp
+11,3,t1B26-sl3-p3A0-r16,"Hamburg To Tc",1,101,928_shp
+11,3,t1B27-sl3-p3A0-r17,"Hamburg To Tc",1,102,928_shp
+11,3,t1B28-sl3-p3A0-r16,"Hamburg To Tc",1,101,928_shp
+11,3,t1B29-sl3-p3A0-r17,"Hamburg To Tc",1,102,928_shp
+11,3,t1B2A-sl3-p3A0-r16,"Hamburg To Tc",1,101,928_shp
+11,3,t1B2B-sl3-p3A0-r17,"Hamburg To Tc",1,102,928_shp
+11,3,t1E76-sl3-p2E3-r17,"Hamburg To Polo",0,102,739_shp
+11,3,t1E77-sl3-p644-r16,"Hamburg To Tc",1,101,1604_shp
+11,3,t1E78-sl3-p644-r16,"Hamburg To Tc",1,101,1604_shp
+11,3,t1E79-sl3-p644-r16,"Hamburg To Tc",1,101,1604_shp
+11,3,t1E7A-sl3-p644-r16,"Hamburg To Tc",1,101,1604_shp
+11,3,t1E7B-sl3-p65E-r16,"Hamburg To Tc",1,101,1630_shp
+11,3,t1E7C-sl3-p65F-r16,"Hamburg To Tc",1,101,1631_shp
+11,3,t1E7D-sl3-p660-r16,"Hamburg To Tc",1,101,1632_shp
+11,3,t1E7E-sl3-p660-r16,"Hamburg To Tc",1,101,1632_shp
+11,3,t1E7F-sl3-p660-r16,"Hamburg To Tc",1,101,1632_shp
+11,3,t3D8-sl3-p84-r16,"Hamburg-Alysheba",0,101,132_shp
+11,3,t411-sl3-p3A7-r17,"Hamburg To Costc",0,102,935_shp
+11,3,t413-sl3-p3A7-r16,"Hamburg To Costc",0,101,935_shp
+11,3,t415-sl3-p3A7-r17,"Hamburg To Costc",0,102,935_shp
+11,3,t417-sl3-p3A7-r16,"Hamburg To Costc",0,101,935_shp
+11,3,t419-sl3-p3A7-r17,"Hamburg To Costc",0,102,935_shp
+11,3,t41B-sl3-p612-r16,"Hamburg To Costc",0,101,1554_shp
+11,4,t1174-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1175-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1176-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1177-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1178-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1179-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t117A-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1B2F-sl4-p51E-r16,"Hamburg To Polo",0,101,1310_shp
+11,4,t1B30-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B31-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B32-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B33-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B34-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B35-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B36-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B37-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B38-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B39-sl4-p55C-r16,"Hamburg To Polo",0,101,1372_shp
+11,4,t1B3A-sl4-p51E-r16,"Hamburg To Polo",0,101,1310_shp
+11,4,t1B3B-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1B3C-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1B3D-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1B3E-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1B3F-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t1B40-sl4-p311-r16,"Hamburg To Tc",1,101,785_shp
+11,4,t3D8-sl4-p51E-r16,"Hamburg To Polo",0,101,1310_shp
+11,4,t41D-sl4-p2E4-r16,"Hamburg To Tc",1,101,740_shp
+11,5,t1174-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1175-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1176-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1177-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1178-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1179-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t117A-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1B2F-sl5-p51F-r16,"Hamburg To Polo",0,101,1311_shp
+11,5,t1B30-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B31-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B32-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B33-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B34-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B35-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B36-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B37-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B38-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B39-sl5-p56F-r16,"Hamburg To Polo",0,101,1391_shp
+11,5,t1B3A-sl5-p51F-r16,"Hamburg To Polo",0,101,1311_shp
+11,5,t1B3B-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1B3C-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1B3D-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1B3E-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1B3F-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t1B40-sl5-p367-r16,"Hamburg To Tc",1,101,871_shp
+11,5,t3D8-sl5-p51F-r16,"Hamburg To Polo",0,101,1311_shp
+11,5,t41D-sl5-p31D-r16,"Hamburg To Tc",1,101,797_shp
+12,2,t1295-sl2-p550-r19,"Richmond Rd Ob",0,111,1360_shp
+12,2,t1296-sl2-p550-r19,"Richmond Rd Ob",0,111,1360_shp
+12,2,t1297-sl2-p8C-r19,"Richmond Rd Ib",1,111,140_shp
+12,2,t1298-sl2-p8C-r1A,"Richmond Rd Ib",1,112,140_shp
+12,2,t1299-sl2-p11F-r19,"Richmond Rd Ib",1,111,287_shp
+12,2,t12A2-sl2-p11F-r19,"Richmond Rd Ib",1,111,287_shp
+12,2,t1479-sl2-p11D-r1A,"Richmond Rd Ib",1,112,285_shp
+12,2,t147A-sl2-p11F-r19,"Richmond Rd Ib",1,111,287_shp
+12,2,t18B4-sl2-p522-r2,"Richmond Rd Ib",1,12,1314_shp
+12,2,t18B5-sl2-p522-r2,"Richmond Rd Ib",1,12,1314_shp
+12,2,t18B6-sl2-p522-r2,"Richmond Rd Ib",1,12,1314_shp
+12,2,t449-sl2-p521-r19,"Richmond Rd Ob",0,111,1313_shp
+12,2,t44A-sl2-p521-r1A,"Richmond Rd Ob",0,112,1313_shp
+12,2,t44B-sl2-p521-r19,"Richmond Rd Ob",0,111,1313_shp
+12,2,t44C-sl2-p521-r1A,"Richmond Rd Ob",0,112,1313_shp
+12,2,t44D-sl2-p521-r19,"Richmond Rd Ob",0,111,1313_shp
+12,2,t44E-sl2-p521-r1A,"Richmond Rd Ob",0,112,1313_shp
+12,2,t44F-sl2-p521-r19,"Richmond Rd Ob",0,111,1313_shp
+12,2,t450-sl2-p521-r1A,"Richmond Rd Ob",0,112,1313_shp
+12,2,t451-sl2-p521-r19,"Richmond Rd Ob",0,111,1313_shp
+12,2,t452-sl2-p521-r1A,"Richmond Rd Ob",0,112,1313_shp
+12,2,t453-sl2-p54E-r19,"Richmond Rd Ob",0,111,1358_shp
+12,2,t454-sl2-p54E-r1A,"Richmond Rd Ob",0,112,1358_shp
+12,2,t455-sl2-p54E-r19,"Richmond Rd Ob",0,111,1358_shp
+12,2,t456-sl2-p54E-r1A,"Richmond Rd Ob",0,112,1358_shp
+12,2,t457-sl2-p54E-r19,"Richmond Rd Ob",0,111,1358_shp
+12,2,t458-sl2-p54F-r1A,"Richmond Rd Ob",0,112,1359_shp
+12,2,t459-sl2-p54F-r19,"Richmond Rd Ob",0,111,1359_shp
+12,2,t45A-sl2-p54F-r1A,"Richmond Rd Ob",0,112,1359_shp
+12,2,t45B-sl2-p54F-r19,"Richmond Rd Ob",0,111,1359_shp
+12,2,t45C-sl2-p54F-r1A,"Richmond Rd Ob",0,112,1359_shp
+12,2,t45D-sl2-p54F-r19,"Richmond Rd Ob",0,111,1359_shp
+12,2,t462-sl2-p11D-r19,"Richmond Rd Ib",1,111,285_shp
+12,2,t463-sl2-p11D-r1A,"Richmond Rd Ib",1,112,285_shp
+12,2,t464-sl2-p11D-r19,"Richmond Rd Ib",1,111,285_shp
+12,2,t465-sl2-p11D-r1A,"Richmond Rd Ib",1,112,285_shp
+12,2,t466-sl2-p11D-r19,"Richmond Rd Ib",1,111,285_shp
+12,2,t467-sl2-p11D-r1A,"Richmond Rd Ib",1,112,285_shp
+12,2,t468-sl2-p11D-r19,"Richmond Rd Ib",1,111,285_shp
+12,2,t469-sl2-p11D-r1A,"Richmond Rd Ib",1,112,285_shp
+12,2,t46A-sl2-p11D-r19,"Richmond Rd Ib",1,111,285_shp
+12,2,t46B-sl2-p11E-r1A,"Richmond Rd Ib",1,112,286_shp
+12,2,t46C-sl2-p11E-r19,"Richmond Rd Ib",1,111,286_shp
+12,2,t46D-sl2-p11E-r1A,"Richmond Rd Ib",1,112,286_shp
+12,2,t46E-sl2-p11E-r19,"Richmond Rd Ib",1,111,286_shp
+12,2,t46F-sl2-p11E-r1A,"Richmond Rd Ib",1,112,286_shp
+12,2,t470-sl2-p11E-r19,"Richmond Rd Ib",1,111,286_shp
+12,2,t471-sl2-p11E-r1A,"Richmond Rd Ib",1,112,286_shp
+12,2,t472-sl2-p11E-r19,"Richmond Rd Ib",1,111,286_shp
+12,2,t473-sl2-p11E-r1A,"Richmond Rd Ib",1,112,286_shp
+12,2,t474-sl2-p11E-r19,"Richmond Rd Ib",1,111,286_shp
+12,3,t1295-sl3-p523-r19,"Richmond Rd Ob",0,111,1315_shp
+12,3,t1296-sl3-p523-r19,"Richmond Rd Ob",0,111,1315_shp
+12,3,t129E-sl3-p15B-r19,"Richmond Rd Ib",1,111,347_shp
+12,3,t129F-sl3-p15B-r19,"Richmond Rd Ib",1,111,347_shp
+12,3,t12A0-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B41-sl3-p8F-r19,"Richmond Rd Ib",1,111,143_shp
+12,3,t1B42-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B43-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B44-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B45-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B46-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B47-sl3-p15C-r19,"Richmond Rd Ib",1,111,348_shp
+12,3,t1B48-sl3-p15B-r19,"Richmond Rd Ib",1,111,347_shp
+12,3,t1B49-sl3-p15B-r19,"Richmond Rd Ib",1,111,347_shp
+12,3,t1B4A-sl3-p8F-r19,"Richmond Rd Ib",1,111,143_shp
+12,3,t1B4B-sl3-p524-r1,"Richmond Rd Ib",1,11,1316_shp
+12,3,t1B4C-sl3-p524-r1,"Richmond Rd Ib",1,11,1316_shp
+12,3,t449-sl3-p523-r19,"Richmond Rd Ob",0,111,1315_shp
+12,3,t44B-sl3-p523-r19,"Richmond Rd Ob",0,111,1315_shp
+12,3,t44D-sl3-p523-r19,"Richmond Rd Ob",0,111,1315_shp
+12,3,t44F-sl3-p523-r19,"Richmond Rd Ob",0,111,1315_shp
+12,3,t451-sl3-p556-r19,"Richmond Rd Ob",0,111,1366_shp
+12,3,t453-sl3-p556-r19,"Richmond Rd Ob",0,111,1366_shp
+12,3,t455-sl3-p556-r19,"Richmond Rd Ob",0,111,1366_shp
+12,3,t457-sl3-p556-r19,"Richmond Rd Ob",0,111,1366_shp
+12,3,t459-sl3-p556-r19,"Richmond Rd Ob",0,111,1366_shp
+12,3,t45B-sl3-p556-r19,"Richmond Rd Ob",0,111,1366_shp
+12,3,t45D-sl3-p557-r19,"Richmond Rd Ob",0,111,1367_shp
+12,3,t485-sl3-p15B-r19,"Richmond Rd Ib",1,111,347_shp
+12,4,t1482-sl4-p91-r19,"Richmond Rd Ob",0,111,145_shp
+12,4,t1B4E-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,t1B4F-sl4-p92-r19,"Richmond Rd Ib",1,111,146_shp
+12,4,t1B50-sl4-p92-r19,"Richmond Rd Ib",1,111,146_shp
+12,4,t1B51-sl4-p92-r19,"Richmond Rd Ib",1,111,146_shp
+12,4,t1B52-sl4-p92-r19,"Richmond Rd Ib",1,111,146_shp
+12,4,t449-sl4-p525-r19,"Richmond Rd Ob",0,111,1317_shp
+12,4,t460-sl4-p92-r19,"Richmond Rd Ib",1,111,146_shp
+12,4,t493-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,t49F-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,t4A6-sl4-p92-r19,"Richmond Rd Ib",1,111,146_shp
+12,4,tD3C-sl4-p525-r19,"Richmond Rd Ob",0,111,1317_shp
+12,4,tD3D-sl4-p525-r19,"Richmond Rd Ob",0,111,1317_shp
+12,4,tD3E-sl4-p525-r19,"Richmond Rd Ob",0,111,1317_shp
+12,4,tD3F-sl4-p525-r19,"Richmond Rd Ob",0,111,1317_shp
+12,4,tD40-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,tD41-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,tD42-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,tD43-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,tD44-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,tD45-sl4-p55D-r19,"Richmond Rd Ob",0,111,1373_shp
+12,4,tF58-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,tF59-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,tF5A-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,tF5B-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,tF5C-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,tF5D-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,4,tF5E-sl4-p171-r19,"Richmond Rd Ib",1,111,369_shp
+12,5,t1482-sl5-p93-r19,"Richmond Rd Ob",0,111,147_shp
+12,5,t1B4E-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,t1B4F-sl5-p94-r19,"Richmond Rd Ib",1,111,148_shp
+12,5,t1B50-sl5-p94-r19,"Richmond Rd Ib",1,111,148_shp
+12,5,t1B51-sl5-p94-r19,"Richmond Rd Ib",1,111,148_shp
+12,5,t1B52-sl5-p94-r19,"Richmond Rd Ib",1,111,148_shp
+12,5,t449-sl5-p526-r19,"Richmond Rd Ob",0,111,1318_shp
+12,5,t460-sl5-p94-r19,"Richmond Rd Ib",1,111,148_shp
+12,5,t493-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,t49F-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,t4A6-sl5-p94-r19,"Richmond Rd Ib",1,111,148_shp
+12,5,tD3C-sl5-p526-r19,"Richmond Rd Ob",0,111,1318_shp
+12,5,tD3D-sl5-p526-r19,"Richmond Rd Ob",0,111,1318_shp
+12,5,tD3E-sl5-p526-r19,"Richmond Rd Ob",0,111,1318_shp
+12,5,tD3F-sl5-p526-r19,"Richmond Rd Ob",0,111,1318_shp
+12,5,tD40-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,tD41-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,tD42-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,tD43-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,tD44-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,tD45-sl5-p570-r19,"Richmond Rd Ob",0,111,1392_shp
+12,5,tF58-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,tF59-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,tF5A-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,tF5B-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,tF5C-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,tF5D-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+12,5,tF5E-sl5-p17A-r19,"Richmond Rd Ib",1,111,378_shp
+13,2,t18E0-sl2-p5C4-r3,"Leestown To Tc",1,21,1476_shp
+13,2,t18E1-sl2-p5C4-r3,"Leestown To Tc",1,21,1476_shp
+13,2,t18E2-sl2-p5C4-r3,"Leestown To Tc",1,21,1476_shp
+13,2,t1B53-sl2-p95-r1B,"Leestown To Sand",0,121,149_shp
+13,2,t1B54-sl2-p95-r1C,"Leestown To Sand",0,122,149_shp
+13,2,t1B55-sl2-p95-r1B,"Leestown To Sand",0,121,149_shp
+13,2,t1B56-sl2-p95-r1C,"Leestown To Sand",0,122,149_shp
+13,2,t1B57-sl2-p199-r1B,"Leestown To Sand",0,121,409_shp
+13,2,t1B58-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B59-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B5A-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B5B-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B5C-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B5D-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B5E-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B5F-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B60-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B61-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B62-sl2-p199-r1C,"Leestown To Sand",0,122,409_shp
+13,2,t1B67-sl2-p97-r1B,"Leestown To Tc",1,121,151_shp
+13,2,t1B68-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B69-sl2-p1B7-r1B,"Leestown To Tc",1,121,439_shp
+13,2,t1B6A-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B6B-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B6C-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B6D-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B6E-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B6F-sl2-p1B7-r1D,"Leestown To Tc",1,123,439_shp
+13,2,t1B70-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B71-sl2-p1B0-r1D,"Leestown To Tc",1,123,432_shp
+13,2,t1B72-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B73-sl2-p1B7-r1D,"Leestown To Tc",1,123,439_shp
+13,2,t1B74-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B75-sl2-p1B7-r1D,"Leestown To Tc",1,123,439_shp
+13,2,t1B76-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1B77-sl2-p1B7-r1C,"Leestown To Tc",1,122,439_shp
+13,2,t1EF0-sl2-p98-r1B,"Leestown To Tc",1,121,152_shp
+13,2,t1EF1-sl2-p98-r1C,"Leestown To Tc",1,122,152_shp
+13,2,t1EF2-sl2-p98-r1B,"Leestown To Tc",1,121,152_shp
+13,2,t1EF3-sl2-p98-r1C,"Leestown To Tc",1,122,152_shp
+13,2,t1EF4-sl2-p98-r1C,"Leestown To Tc",1,122,152_shp
+13,2,t4DA-sl2-p199-r1D,"Leestown To Sand",0,123,409_shp
+13,2,t4DB-sl2-p199-r1D,"Leestown To Sand",0,123,409_shp
+13,2,t4DC-sl2-p199-r1D,"Leestown To Sand",0,123,409_shp
+13,2,t4DD-sl2-p199-r1D,"Leestown To Sand",0,123,409_shp
+13,3,t118B-sl3-p9B-r1B,"Leestown To Tc",1,121,155_shp
+13,3,t12D2-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t18E0-sl3-p5C5-r3,"Leestown To Tc",1,21,1477_shp
+13,3,t18E1-sl3-p5C5-r3,"Leestown To Tc",1,21,1477_shp
+13,3,t18E2-sl3-p5C5-r3,"Leestown To Tc",1,21,1477_shp
+13,3,t1B56-sl3-p99-r1B,"Leestown To Sand",0,121,153_shp
+13,3,t1B58-sl3-p99-r1B,"Leestown To Sand",0,121,153_shp
+13,3,t1B59-sl3-p5E5-r1B,"Leestown To Sand",0,121,1509_shp
+13,3,t1B5A-sl3-p5E5-r1B,"Leestown To Sand",0,121,1509_shp
+13,3,t1B5B-sl3-p5E5-r1B,"Leestown To Sand",0,121,1509_shp
+13,3,t1B5C-sl3-p5E5-r1B,"Leestown To Sand",0,121,1509_shp
+13,3,t1B5D-sl3-p5E5-r1B,"Leestown To Sand",0,121,1509_shp
+13,3,t1B5E-sl3-p5E5-r1B,"Leestown To Sand",0,121,1509_shp
+13,3,t1B5F-sl3-p5E6-r1B,"Leestown To Sand",0,121,1510_shp
+13,3,t1B60-sl3-p5E6-r1B,"Leestown To Sand",0,121,1510_shp
+13,3,t1B61-sl3-p614-r1B,"Leestown To Sand",0,121,1556_shp
+13,3,t1B62-sl3-p99-r1B,"Leestown To Sand",0,121,153_shp
+13,3,t1B7B-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1B7C-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1B7D-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1B7E-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1B7F-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1B80-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1B81-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t1EF3-sl3-p9B-r1B,"Leestown To Tc",1,121,155_shp
+13,3,t1EF5-sl3-p9B-r1B,"Leestown To Tc",1,121,155_shp
+13,3,t1EF6-sl3-p9B-r1B,"Leestown To Tc",1,121,155_shp
+13,3,t1EF7-sl3-p1B6-r1B,"Leestown To Tc",1,121,438_shp
+13,3,t4A9-sl3-p9A-r1B,"Leestown To Sand",0,121,154_shp
+13,3,tF76-sl3-p9B-r1B,"Leestown To Tc",1,121,155_shp
+13,4,t173E-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B83-sl4-p9C-r1B,"Leestown To Sand",0,121,156_shp
+13,4,t1B84-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B85-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B86-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B87-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B88-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B89-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B8A-sl4-p5EB-r1B,"Leestown To Sand",0,121,1515_shp
+13,4,t1B8B-sl4-p5EB-r1B,"Leestown To Sand",0,121,1515_shp
+13,4,t1B8C-sl4-p5EA-r1B,"Leestown To Sand",0,121,1514_shp
+13,4,t1B8D-sl4-p618-r1B,"Leestown To Sand",0,121,1560_shp
+13,4,t1B91-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B92-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B93-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B94-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B95-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B96-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1B97-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t1EF4-sl4-p9E-r1B,"Leestown To Tc",1,121,158_shp
+13,4,t1EF8-sl4-p9E-r1B,"Leestown To Tc",1,121,158_shp
+13,4,t1EF9-sl4-p9E-r1B,"Leestown To Tc",1,121,158_shp
+13,4,t1EFA-sl4-p9E-r1B,"Leestown To Tc",1,121,158_shp
+13,4,t1EFB-sl4-p2F8-r1B,"Leestown To Tc",1,121,760_shp
+13,4,t4A9-sl4-p9D-r1B,"Leestown To Sand",0,121,157_shp
+13,4,t96E-sl4-p9C-r1B,"Leestown To Sand",0,121,156_shp
+13,4,tF76-sl4-p9E-r1B,"Leestown To Tc",1,121,158_shp
+13,5,t173E-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B83-sl5-p9F-r1B,"Leestown To Sand",0,121,159_shp
+13,5,t1B84-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B85-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B86-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B87-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B88-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B89-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B8A-sl5-p5F0-r1B,"Leestown To Sand",0,121,1520_shp
+13,5,t1B8B-sl5-p5F0-r1B,"Leestown To Sand",0,121,1520_shp
+13,5,t1B8C-sl5-p5EF-r1B,"Leestown To Sand",0,121,1519_shp
+13,5,t1B8D-sl5-p61B-r1B,"Leestown To Sand",0,121,1563_shp
+13,5,t1B91-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B92-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B93-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B94-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B95-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B96-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1B97-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t1EF4-sl5-pA1-r1B,"Leestown To Tc",1,121,161_shp
+13,5,t1EF8-sl5-pA1-r1B,"Leestown To Tc",1,121,161_shp
+13,5,t1EF9-sl5-pA1-r1B,"Leestown To Tc",1,121,161_shp
+13,5,t1EFA-sl5-pA1-r1B,"Leestown To Tc",1,121,161_shp
+13,5,t1EFB-sl5-p378-r1B,"Leestown To Tc",1,121,888_shp
+13,5,t4A9-sl5-pA0-r1B,"Leestown To Sand",0,121,160_shp
+13,5,t96E-sl5-p9F-r1B,"Leestown To Sand",0,121,159_shp
+13,5,tF76-sl5-pA1-r1B,"Leestown To Tc",1,121,161_shp
+14,2,t12F9-sl2-p4C4-r1E,"S Brdwy-Palomar",0,131,1220_shp
+14,2,t12FA-sl2-p4C5-r1E,"S Brdwy-Palomar",0,131,1221_shp
+14,2,t1490-sl2-p123-r1E,"S Broadway To Tc",1,131,291_shp
+14,2,t1491-sl2-p123-r1E,"S Broadway To Tc",1,131,291_shp
+14,2,t18F4-sl2-pA5-r11,"S Broadway To Tc",1,81,165_shp
+14,2,t18F5-sl2-pA5-r11,"S Broadway To Tc",1,81,165_shp
+14,2,t18F6-sl2-pA5-r11,"S Broadway To Tc",1,81,165_shp
+14,2,t1B9A-sl2-pA4-r1E,"S Broadway To Tc",1,131,164_shp
+14,2,t1B9B-sl2-pA3-r1F,"S Broadway To Tc",1,132,163_shp
+14,2,t1B9C-sl2-pA3-r1E,"S Broadway To Tc",1,131,163_shp
+14,2,t1B9D-sl2-pA3-r1F,"S Broadway To Tc",1,132,163_shp
+14,2,t1B9E-sl2-p121-r1E,"S Broadway To Tc",1,131,289_shp
+14,2,t1B9F-sl2-p122-r1F,"S Broadway To Tc",1,132,290_shp
+14,2,t1BA0-sl2-p123-r1E,"S Broadway To Tc",1,131,291_shp
+14,2,t1BA1-sl2-p124-r1E,"S Broadway To Tc",1,131,292_shp
+14,2,t1BA2-sl2-p4C6-r1E,"S Broadway To Tc",1,131,1222_shp
+14,2,t1BA3-sl2-p4C6-r1E,"S Broadway To Tc",1,131,1222_shp
+14,2,t1BA4-sl2-p4C6-r1E,"S Broadway To Tc",1,131,1222_shp
+14,2,t1BA5-sl2-p4C6-r20,"S Broadway To Tc",1,133,1222_shp
+14,2,t1BA6-sl2-p4C6-r1E,"S Broadway To Tc",1,131,1222_shp
+14,2,t1BA7-sl2-p4C6-r20,"S Broadway To Tc",1,133,1222_shp
+14,2,t1BA8-sl2-p4C7-r1E,"S Broadway To Tc",1,131,1223_shp
+14,2,t1BA9-sl2-p123-r20,"S Broadway To Tc",1,133,291_shp
+14,2,t1BAA-sl2-p123-r1E,"S Broadway To Tc",1,131,291_shp
+14,2,t502-sl2-pA2-r1E,"S Brdwy-Palomar",0,131,162_shp
+14,2,t503-sl2-pA2-r1F,"S Brdwy-Palomar",0,132,162_shp
+14,2,t504-sl2-pA2-r1E,"S Brdwy-Palomar",0,131,162_shp
+14,2,t505-sl2-pA2-r1F,"S Brdwy-Palomar",0,132,162_shp
+14,2,t506-sl2-pA2-r1E,"S Brdwy-Palomar",0,131,162_shp
+14,2,t507-sl2-p1A1-r1E,"S Brdwy-Palomar",0,131,417_shp
+14,2,t508-sl2-p1A1-r1E,"S Brdwy-Palomar",0,131,417_shp
+14,2,t509-sl2-p1A2-r1E,"S Brdwy-Palomar",0,131,418_shp
+14,2,t50A-sl2-p1A2-r1E,"S Brdwy-Palomar",0,131,418_shp
+14,2,t50B-sl2-p1A2-r1E,"S Brdwy-Palomar",0,131,418_shp
+14,2,t50C-sl2-p1A2-r20,"S Brdwy-Palomar",0,133,418_shp
+14,2,t50D-sl2-p4C4-r1E,"S Brdwy-Palomar",0,131,1220_shp
+14,2,t50E-sl2-p4C4-r20,"S Brdwy-Palomar",0,133,1220_shp
+14,2,t50F-sl2-p4C4-r1E,"S Brdwy-Palomar",0,131,1220_shp
+14,2,t510-sl2-p4C4-r20,"S Brdwy-Palomar",0,133,1220_shp
+14,2,t511-sl2-p4C4-r1E,"S Brdwy-Palomar",0,131,1220_shp
+14,2,tD72-sl2-p122-r1E,"S Broadway To Tc",1,131,290_shp
+14,3,t12F9-sl3-p4DF-r1E,"S Brdwy-Palomar",0,131,1247_shp
+14,3,t12FA-sl3-p4E0-r1E,"S Brdwy-Palomar",0,131,1248_shp
+14,3,t1304-sl3-p4E3-r1E,"S Broadway To Tc",1,131,1251_shp
+14,3,t1305-sl3-p4E3-r1E,"S Broadway To Tc",1,131,1251_shp
+14,3,t1490-sl3-p615-r1E,"S Broadway To Tc",1,131,1557_shp
+14,3,t1491-sl3-p615-r1E,"S Broadway To Tc",1,131,1557_shp
+14,3,t1492-sl3-p616-r1E,"S Broadway To Tc",1,131,1558_shp
+14,3,t1494-sl3-p163-r1E,"S Broadway To Tc",1,131,355_shp
+14,3,t18F4-sl3-pA8-r11,"S Broadway To Tc",1,81,168_shp
+14,3,t18F5-sl3-pA8-r11,"S Broadway To Tc",1,81,168_shp
+14,3,t18F6-sl3-pA8-r11,"S Broadway To Tc",1,81,168_shp
+14,3,t1B9A-sl3-p4B5-r1E,"S Broadway To Tc",1,131,1205_shp
+14,3,t1B9C-sl3-pA7-r1E,"S Broadway To Tc",1,131,167_shp
+14,3,t1BAB-sl3-p4E1-r1E,"S Broadway To Tc",1,131,1249_shp
+14,3,t1BAC-sl3-p4E2-r1E,"S Broadway To Tc",1,131,1250_shp
+14,3,t1BAD-sl3-p4E3-r1E,"S Broadway To Tc",1,131,1251_shp
+14,3,t1BAE-sl3-p4E4-r1E,"S Broadway To Tc",1,131,1252_shp
+14,3,t1BAF-sl3-p4E4-r1E,"S Broadway To Tc",1,131,1252_shp
+14,3,t502-sl3-pA6-r1E,"S Brdwy-Palomar",0,131,166_shp
+14,3,t504-sl3-pA6-r1E,"S Brdwy-Palomar",0,131,166_shp
+14,3,t506-sl3-pA6-r1E,"S Brdwy-Palomar",0,131,166_shp
+14,3,t507-sl3-p161-r1E,"S Brdwy-Palomar",0,131,353_shp
+14,3,t508-sl3-p161-r1E,"S Brdwy-Palomar",0,131,353_shp
+14,3,t509-sl3-p4DE-r1E,"S Brdwy-Palomar",0,131,1246_shp
+14,3,t50A-sl3-p4DE-r1E,"S Brdwy-Palomar",0,131,1246_shp
+14,3,t50B-sl3-p4DE-r1E,"S Brdwy-Palomar",0,131,1246_shp
+14,3,t50D-sl3-p4DF-r1E,"S Brdwy-Palomar",0,131,1247_shp
+14,3,t50F-sl3-p4DF-r1E,"S Brdwy-Palomar",0,131,1247_shp
+14,3,t511-sl3-p4DF-r1E,"S Brdwy-Palomar",0,131,1247_shp
+14,3,tFAB-sl3-p162-r1E,"S Broadway To Tc",1,131,354_shp
+14,4,t1494-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t1495-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t1498-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t1499-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t149A-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t149B-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t149C-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t149D-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t1BB0-sl4-pAA-r1E,"S Brdwy-Palomar",0,131,170_shp
+14,4,t1BB1-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t1BB2-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,t1BB3-sl4-p2F9-r1E,"S Broadway To Tc",1,131,761_shp
+14,4,t502-sl4-pAA-r1E,"S Brdwy-Palomar",0,131,170_shp
+14,4,t544-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD66-sl4-pAA-r1E,"S Brdwy-Palomar",0,131,170_shp
+14,4,tD67-sl4-pAA-r1E,"S Brdwy-Palomar",0,131,170_shp
+14,4,tD68-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD69-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD6A-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD6B-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD6C-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD6D-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD6E-sl4-p4F5-r1E,"S Brdwy-Palomar",0,131,1269_shp
+14,4,tD6F-sl4-p4F6-r1E,"S Brdwy-Palomar",0,131,1270_shp
+14,4,tD70-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,tD71-sl4-pAB-r1E,"S Broadway To Tc",1,131,171_shp
+14,4,tF9D-sl4-pAC-r1E,"S Broadway To Tc",1,131,172_shp
+14,5,t1494-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t1495-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t1498-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t1499-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t149A-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t149B-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t149C-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t149D-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t1BB0-sl5-pAD-r1E,"S Brdwy-Palomar",0,131,173_shp
+14,5,t1BB1-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t1BB2-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,t1BB3-sl5-p369-r1E,"S Broadway To Tc",1,131,873_shp
+14,5,t502-sl5-pAD-r1E,"S Brdwy-Palomar",0,131,173_shp
+14,5,t544-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD66-sl5-pAD-r1E,"S Brdwy-Palomar",0,131,173_shp
+14,5,tD67-sl5-pAD-r1E,"S Brdwy-Palomar",0,131,173_shp
+14,5,tD68-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD69-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD6A-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD6B-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD6C-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD6D-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD6E-sl5-p571-r1E,"S Brdwy-Palomar",0,131,1393_shp
+14,5,tD6F-sl5-p572-r1E,"S Brdwy-Palomar",0,131,1394_shp
+14,5,tD70-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,tD71-sl5-pAE-r1E,"S Broadway To Tc",1,131,174_shp
+14,5,tF9D-sl5-pAF-r1E,"S Broadway To Tc",1,131,175_shp
+16,2,t13CD-sl2-p46A-r28,,1,152,1130_shp
+16,2,t13CE-sl2-p46A-r42,,1,154,1130_shp
+16,2,t13CF-sl2-p469-r28,,1,152,1129_shp
+16,2,t13D0-sl2-p469-r42,,1,154,1129_shp
+16,2,t13D1-sl2-p469-r28,,1,152,1129_shp
+16,2,t13D2-sl2-p469-r42,,1,154,1129_shp
+16,2,t13D3-sl2-p469-r28,,1,152,1129_shp
+16,2,t13D4-sl2-p469-r42,,1,154,1129_shp
+16,2,t13D5-sl2-p469-r28,,1,152,1129_shp
+16,2,t13D6-sl2-p469-r42,,1,154,1129_shp
+16,2,t13D7-sl2-p469-r28,,1,152,1129_shp
+16,2,t13D8-sl2-p469-r42,,1,154,1129_shp
+16,2,t13D9-sl2-p469-r28,,1,152,1129_shp
+16,2,t13DA-sl2-p469-r42,,1,154,1129_shp
+16,2,t13DB-sl2-p469-r28,,1,152,1129_shp
+16,2,t13DC-sl2-p469-r42,,1,154,1129_shp
+16,2,t13DD-sl2-p469-r28,,1,152,1129_shp
+16,2,t13DE-sl2-p469-r42,,1,154,1129_shp
+16,2,t13DF-sl2-p469-r28,,1,152,1129_shp
+16,2,t13E0-sl2-p469-r42,,1,154,1129_shp
+16,2,t13E1-sl2-p469-r28,,1,152,1129_shp
+16,2,t13E2-sl2-p469-r42,,1,154,1129_shp
+16,2,t13E3-sl2-p469-r28,,1,152,1129_shp
+16,2,t13E4-sl2-p469-r42,,1,154,1129_shp
+16,2,t13E5-sl2-p469-r28,,1,152,1129_shp
+16,2,t13E6-sl2-p469-r42,,1,154,1129_shp
+16,2,t13E7-sl2-p469-r28,,1,152,1129_shp
+16,2,t13E8-sl2-p469-r42,,1,154,1129_shp
+16,2,t13E9-sl2-p469-r28,,1,152,1129_shp
+16,2,t13EA-sl2-p469-r42,,1,154,1129_shp
+16,2,t13EB-sl2-p469-r28,,1,152,1129_shp
+16,2,t13EC-sl2-p469-r42,,1,154,1129_shp
+16,2,t13ED-sl2-p469-r28,,1,152,1129_shp
+16,2,t13EE-sl2-p469-r42,,1,154,1129_shp
+16,2,t13EF-sl2-p469-r28,,1,152,1129_shp
+16,2,t13F0-sl2-p469-r42,,1,154,1129_shp
+16,2,t13F1-sl2-p469-r28,,1,152,1129_shp
+16,2,t13F2-sl2-p469-r42,,1,154,1129_shp
+16,2,t13F3-sl2-p469-r28,,1,152,1129_shp
+16,2,t13F4-sl2-p469-r42,,1,154,1129_shp
+16,2,t13F5-sl2-p469-r28,,1,152,1129_shp
+16,2,t13F6-sl2-p469-r42,,1,154,1129_shp
+16,2,t13F7-sl2-p469-r28,,1,152,1129_shp
+16,2,t13F8-sl2-p469-r42,,1,154,1129_shp
+16,2,t13F9-sl2-p469-r28,,1,152,1129_shp
+16,2,t13FA-sl2-p469-r42,,1,154,1129_shp
+16,2,t13FB-sl2-p469-r28,,1,152,1129_shp
+16,2,t13FC-sl2-p469-r42,,1,154,1129_shp
+16,2,t13FD-sl2-p469-r28,,1,152,1129_shp
+16,2,t13FE-sl2-p469-r42,,1,154,1129_shp
+16,2,t13FF-sl2-p469-r28,,1,152,1129_shp
+16,2,t1400-sl2-p469-r42,,1,154,1129_shp
+16,2,t1401-sl2-p469-r28,,1,152,1129_shp
+16,2,t1402-sl2-p469-r42,,1,154,1129_shp
+16,2,t1403-sl2-p469-r28,,1,152,1129_shp
+16,2,t1405-sl2-p46B-r28,,1,152,1131_shp
+16,2,t1406-sl2-p46B-r42,,1,154,1131_shp
+16,2,t1407-sl2-p46D-r27,"Red Mile/uk Camp",0,151,1133_shp
+16,2,t1408-sl2-p46D-r41,"Red Mile/uk Camp",0,153,1133_shp
+16,2,t1409-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t140A-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t140B-sl2-p48D-r50,,0,155,1165_shp
+16,2,t140C-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t140D-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t140E-sl2-p46C-r50,"Red Mile/uk Camp",0,155,1132_shp
+16,2,t140F-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1410-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1411-sl2-p46C-r50,"Red Mile/uk Camp",0,155,1132_shp
+16,2,t1412-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1413-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1414-sl2-p46C-r50,"Red Mile/uk Camp",0,155,1132_shp
+16,2,t1415-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1416-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1417-sl2-p46C-r50,"Red Mile/uk Camp",0,155,1132_shp
+16,2,t1418-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1419-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t141A-sl2-p46C-r50,"Red Mile/uk Camp",0,155,1132_shp
+16,2,t141C-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t141D-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t141F-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1421-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t149F-sl2-p48C-r42,,1,154,1164_shp
+16,2,t1C8D-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C8E-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C8F-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C90-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C91-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C92-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C93-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C94-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C95-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C96-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C97-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C98-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C99-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C9A-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C9B-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C9C-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C9D-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1C9E-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1C9F-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CA0-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CA1-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CA2-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CA3-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CA4-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CA5-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CA6-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CA7-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CA8-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CA9-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CAA-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CAB-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CAC-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CAD-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CAE-sl2-p46C-r41,"Red Mile/uk Camp",0,153,1132_shp
+16,2,t1CAF-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB0-sl2-p46E-r41,"Red Mile/uk Camp",0,153,1134_shp
+16,2,t1CB1-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB2-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB3-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB4-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB5-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB6-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB7-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB8-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CB9-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CBA-sl2-p46C-r27,"Red Mile/uk Camp",0,151,1132_shp
+16,2,t1CBB-sl2-p4CB-r27,,0,151,1227_shp
+16,2,t1CBC-sl2-p4CC-r27,,0,151,1228_shp
+16,3,t161F-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1620-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1621-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1622-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1623-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1624-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1625-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1626-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1627-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1628-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1629-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t162A-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t162B-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t162C-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t162D-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1CBD-sl3-p5FD-r27,"Red Mile/uk Camp",0,151,1533_shp
+16,3,t1CBE-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1CBF-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1CC0-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1CC1-sl3-p5FC-r27,"Red Mile/uk Camp",0,151,1532_shp
+16,3,t1CC2-sl3-p5FE-r27,"Red Mile/uk Camp",0,151,1534_shp
+16,4,t1621-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1622-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1623-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1624-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1625-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1626-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1627-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1628-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1629-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t162A-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t162B-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t162C-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t162D-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CBE-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CBF-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CC0-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CC1-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CC2-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CC3-sl4-p600-r27,"Red Mile/uk Camp",0,151,1536_shp
+16,4,t1CC4-sl4-p5FF-r27,"Red Mile/uk Camp",0,151,1535_shp
+16,4,t1CC5-sl4-p601-r27,"Red Mile/uk Camp",0,151,1537_shp
+17,2,t1CC6-sl2-pB3-r29,"Southlnd-Emerson",0,161,179_shp
+17,2,t1CC7-sl2-pB3-r29,"Southlnd-Emerson",0,161,179_shp
+17,2,t1CC8-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CC9-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CCA-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CCB-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CCC-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CCD-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CCE-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CCF-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CD0-sl2-p125-r29,"Southlnd-Emerson",0,161,293_shp
+17,2,t1CD1-sl2-pB4-r29,"Southland To Tc",1,161,180_shp
+17,2,t1CD2-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD3-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD4-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD5-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD6-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD7-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD8-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CD9-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CDA-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+17,2,t1CDB-sl2-p126-r29,"Southland To Tc",1,161,294_shp
+18,2,t697-sl2-pB5-r2B,"Nside To Estlnd",0,171,181_shp
+18,2,t698-sl2-pB5-r2B,"Nside To Estlnd",0,171,181_shp
+18,2,t699-sl2-pB5-r2B,"Nside To Estlnd",0,171,181_shp
+18,2,t69D-sl2-pB5-r49,"Nside To Estlnd",0,172,181_shp
+18,2,t69E-sl2-pB5-r49,"Nside To Estlnd",0,172,181_shp
+18,2,t69F-sl2-pB5-r49,"Nside To Estlnd",0,172,181_shp
+18,2,t6A0-sl2-pB5-r49,"Nside To Estlnd",0,172,181_shp
+18,2,t6A1-sl2-p2E6-r2B,"Nside To Walmart",1,171,742_shp
+18,2,t6A2-sl2-pB6-r2B,"Nside To Walmart",1,171,182_shp
+18,2,t6A3-sl2-pB6-r2B,"Nside To Walmart",1,171,182_shp
+18,2,t6A4-sl2-pB6-r2B,"Nside To Walmart",1,171,182_shp
+18,2,t6A8-sl2-pB6-r49,"Nside To Walmart",1,172,182_shp
+18,2,t6A9-sl2-pB6-r49,"Nside To Walmart",1,172,182_shp
+18,2,t6AA-sl2-pB6-r49,"Nside To Walmart",1,172,182_shp
+18,2,t6AB-sl2-pB6-r49,"Nside To Walmart",1,172,182_shp
+19,2,t1E8D-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t1E8E-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E8F-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E90-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E91-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E92-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E93-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E94-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E95-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E96-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E97-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t1E98-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,2,t6AC-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6AD-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6AE-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6AF-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B0-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B1-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B2-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B3-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B4-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B5-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6B6-sl2-pB8-r2C,"Rt 18 To Ctr Pwy",0,181,184_shp
+19,2,t6C5-sl2-pB9-r2C,"Rt 18 To Backyrd",1,181,185_shp
+19,3,t1025-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1E99-sl3-pBA-r2C,"Rt 18 To Ctr Pwy",0,181,186_shp
+19,3,t1E9A-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1E9B-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1E9C-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1E9D-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1E9E-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1E9F-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1EA0-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1EA1-sl3-p18A-r2C,"Rt 18 To Ctr Pwy",0,181,394_shp
+19,3,t1EA2-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA3-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA4-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA5-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA6-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA7-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA8-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EA9-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EAA-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EAB-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t1EAC-sl3-pBB-r2C,"Rt 18 To Backyrd",1,181,187_shp
+19,3,t6C8-sl3-pBA-r2C,"Rt 18 To Ctr Pwy",0,181,186_shp
+21,2,t1959-sl2-pC0-r2F,"Rt 21 To Terminal",0,211,192_shp
+21,2,t195A-sl2-pC0-r2F,"Rt 21 To Terminal",0,211,192_shp
+21,2,t195B-sl2-pC0-r2F,"Rt 21 To Terminal",0,211,192_shp
+21,2,t195C-sl2-p4D3-r53,"Rt 21 To Terminal",0,213,1235_shp
+21,2,t195D-sl2-p4D3-r53,"Rt 21 To Terminal",0,213,1235_shp
+21,2,t195E-sl2-p4D3-r53,"Rt 21 To Terminal",0,213,1235_shp
+21,2,t195F-sl2-p4D3-r53,"Rt 21 To Terminal",0,213,1235_shp
+21,2,t1960-sl2-p4D3-r53,"Rt 21 To Terminal",0,213,1235_shp
+21,2,t1961-sl2-pC1-r2F,"Rt 21 To Tc",1,211,193_shp
+21,2,t1962-sl2-p5DF-r2F,"Rt 21 To Tc",1,211,1503_shp
+21,2,t1963-sl2-p5DF-r2F,"Rt 21 To Tc",1,211,1503_shp
+21,2,t1964-sl2-p5DF-r53,"Rt 21 To Tc",1,213,1503_shp
+21,2,t1965-sl2-p5DF-r53,"Rt 21 To Tc",1,213,1503_shp
+21,2,t1966-sl2-p5DF-r53,"Rt 21 To Tc",1,213,1503_shp
+21,2,t1967-sl2-p5DF-r53,"Rt 21 To Tc",1,213,1503_shp
+21,2,t1968-sl2-p5DF-r53,"Rt 21 To Tc",1,213,1503_shp
+21,2,t1CDC-sl2-pC0-r4A,"Rt 21 To Terminal",0,212,192_shp
+21,2,t1CDD-sl2-pC0-r4A,"Rt 21 To Terminal",0,212,192_shp
+21,2,t1CDE-sl2-p4D3-r54,"Rt 21 To Terminal",0,214,1235_shp
+21,2,t1CDF-sl2-p4D3-r54,"Rt 21 To Terminal",0,214,1235_shp
+21,2,t1CE0-sl2-p4D3-r54,"Rt 21 To Terminal",0,214,1235_shp
+21,2,t1CE1-sl2-p4D3-r54,"Rt 21 To Terminal",0,214,1235_shp
+21,2,t1CE2-sl2-p5DF-r4A,"Rt 21 To Tc",1,212,1503_shp
+21,2,t1CE3-sl2-p5DF-r4A,"Rt 21 To Tc",1,212,1503_shp
+21,2,t1CE4-sl2-p5DF-r54,"Rt 21 To Tc",1,214,1503_shp
+21,2,t1CE5-sl2-p5DF-r54,"Rt 21 To Tc",1,214,1503_shp
+21,2,t1CE6-sl2-p5DF-r54,"Rt 21 To Tc",1,214,1503_shp
+21,2,t1CE7-sl2-p5DF-r54,"Rt 21 To Tc",1,214,1503_shp
+23,2,t1982-sl2-pC4-r32,"Rt 24 To Milespt",0,241,196_shp
+23,2,t1983-sl2-pC4-r32,"Rt 24 To Milespt",0,241,196_shp
+23,2,t1984-sl2-pC4-r32,"Rt 24 To Milespt",0,241,196_shp
+23,2,t1985-sl2-pC4-r33,"Rt 24 To Milespt",0,242,196_shp
+23,2,t1986-sl2-pC4-r33,"Rt 24 To Milespt",0,242,196_shp
+23,2,t1987-sl2-pC4-r33,"Rt 24 To Milespt",0,242,196_shp
+23,2,t1988-sl2-pC4-r33,"Rt 24 To Milespt",0,242,196_shp
+23,2,t1989-sl2-pC5-r32,"Rt 24 To Tc",1,241,197_shp
+23,2,t198A-sl2-pC5-r32,"Rt 24 To Tc",1,241,197_shp
+23,2,t198B-sl2-p112-r32,"Rt 24 To Tc",1,241,274_shp
+23,2,t198C-sl2-p112-r32,"Rt 24 To Tc",1,241,274_shp
+23,2,t198D-sl2-p112-r33,"Rt 24 To Tc",1,242,274_shp
+23,2,t198E-sl2-p112-r33,"Rt 24 To Tc",1,242,274_shp
+23,2,t198F-sl2-p112-r33,"Rt 24 To Tc",1,242,274_shp
+23,2,t1990-sl2-p112-r33,"Rt 24 To Tc",1,242,274_shp
+25,2,t1745-sl2-p59C-r3A,"Grgpage_commstad",1,261,1436_shp
+25,2,t1D8D-sl2-p59C-r3A,"Grgpage_commstad",1,261,1436_shp
+29,2,t1969-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t196A-sl2-p5C6-r52,"Mercer To Amazon",0,221,1478_shp
+29,2,t196B-sl2-p5C6-r52,"Mercer To Amazon",0,221,1478_shp
+29,2,t196C-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t196D-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t196E-sl2-p5C6-r52,"Mercer To Amazon",0,221,1478_shp
+29,2,t196F-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t1970-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t1971-sl2-p5C6-r52,"Mercer To Amazon",0,221,1478_shp
+29,2,t1972-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t1973-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t1974-sl2-p5C7-r52,"Mercer To Amazon",0,221,1479_shp
+29,2,t1975-sl2-p5C8-r52,"Mercer To Tc",1,221,1480_shp
+29,2,t1976-sl2-p5C8-r52,"Mercer To Tc",1,221,1480_shp
+29,2,t1977-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t1978-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t1979-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t197A-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t197B-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t197C-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t197D-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t197E-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t197F-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t1980-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+29,2,t1981-sl2-p5E0-r52,"Mercer To Tc",1,221,1504_shp
+30,4,t1F5F-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F5F-sl4-p66B-r56,"Rt 27 Yellow",1,272,1643_shp
+30,4,t1F60-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F61-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F62-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F63-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F64-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F65-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F66-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F67-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F68-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F69-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F6A-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F6B-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F6C-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F6D-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F6E-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F6F-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F70-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F71-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F72-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F73-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F74-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F75-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F76-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F77-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F78-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F79-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F7A-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F7B-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F7C-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F7D-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F7E-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F7F-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F80-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F81-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F82-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F83-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F84-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F85-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F86-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F87-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F88-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F89-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F8A-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F8B-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F8C-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F8D-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F8E-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F8F-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F90-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F91-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F92-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F93-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F94-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F95-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F96-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F97-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F98-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F99-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F9A-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F9B-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F9C-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F9D-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1F9E-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1F9F-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1FA0-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1FA1-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1FA2-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1FA3-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1FA4-sl4-p66A-r56,"Rt 27 Yellow",1,272,1642_shp
+30,4,t1FA5-sl4-p66A-r55,"Rt 27 Yellow",1,271,1642_shp
+30,4,t1FA6-sl4-p66C-r56,"Rt 27 Yellow",1,272,1644_shp
+30,4,t1FA7-sl4-p66C-r55,"Rt 27 Yellow",1,271,1644_shp
