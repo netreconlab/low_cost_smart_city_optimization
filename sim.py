@@ -7,14 +7,11 @@ upper_bound_delay = end - start + (2*60*60) #two hours extra for bus to deliver 
 
 duration = 24 * 60  # 26 hours
 pct_stops_as_sensors = 30
-no_of_seeds = 10
+no_of_seeds = 100
 msg_gen_rate_range = (1, 2*60) #in minutes
 network_file_list = [
     'cht.zip',
-    #'seattle.zip',
-    #'mta.zip',
-    #'lextran.zip',
-    #'louisville.zip'
+    'louisville.zip'
     ]
 network_file = None
 

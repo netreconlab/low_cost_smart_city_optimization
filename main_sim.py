@@ -14,6 +14,7 @@ import random
 import sim
 from sensor import *
 from scenerio import *
+from dsp_memo import DspMemo
 
 
 # In[2]:
@@ -39,7 +40,8 @@ def reset_network():
         'route_subgraphs': None,
         'edge_departures': None,
         'trip_subgraphs': None,
-        'stops_per_trip': None
+        'stops_per_trip': None,
+        'dsp_memo': None
     }
     
     globals().update(global_variables)
@@ -99,10 +101,11 @@ def get_time_to_next_departure(current_time, departure_list):
 
 
 def load_network():
-    global feed,G
+    global feed,G,dsp_memo
 
     feed = pt.get_representative_feed('data/gtfs/' + sim.network_file)
     G = pt.load_feed_as_graph(feed, sim.start, sim.end, interpolate_times=True)
+    dsp_memo = DspMemo()
     
 def load_stop_times():
     global stop_times, routes, trips, time_table
@@ -444,7 +447,7 @@ def calculate_delay(routes, sensor, time):
     while "time", gen_time,start_time is in minutes.
     so remember to convert it.
     """
-    global G, route_subgraphs, gateways_per_route  # inputs
+    global G, route_subgraphs, gateways_per_route, dsp_memo # inputs
 
     global error
 
@@ -465,7 +468,8 @@ def calculate_delay(routes, sensor, time):
             wait_time = None
 
             try:
-                distance, path = nx.single_source_dijkstra(g, sensor.name, namify_stop(G.name, gateway), weight='length')
+                distance, path = dsp_memo.getDsp(g, r, sensor.name, namify_stop(G.name, gateway))
+                #distance, path = nx.single_source_dijkstra(g, sensor.name, namify_stop(G.name, gateway), weight='length')
             except Exception as e:
                 continue
                 
@@ -547,109 +551,45 @@ def run_simulation():
 
 # # GTFS FUNCTIONS
 
-# In[11]:
-
-
-reset_network()
-sim.network_file = 'louisville.zip'
-
-load_network()
-load_stop_times()
-format_stop_times()
-analyze_stops()
-get_departure_times_per_edge_per_route()
-add_departure_to_edge()
-generate_route_subgraphs()
-
-
-# In[12]:
-
-
-for seed in range(0, sim.no_of_seeds):
-    reset_sim()
-    
-    sim.seed = seed
-    np.random.seed(sim.seed)
-    random.seed(sim.seed)
-    
-    randomly_select_sensor_locations()
-    #assign_sensors_to_nodes()
-    #generate_sensors()
-    for algo in ["celf", "in_degree", "betweenness"]:
-    #for algo in ["betweenness"]:
-        for index in range(len(sim.louisville_gateways["celf"])):
-            generate_sensors()
-            load_gateways(sim.louisville_gateways[algo][:index+1])
-            print_stats()
-            generate_route_subgraphs()
-            run_simulation()
-            t = store_results(algo + "_budget" + str(index+1))
-        
-# total = 0
-# n = 0
-# for v in t['ons']:
-#     total += v['delivery_rate']
-#     n += 1
-    
-# total/n
-
-
-# In[13]:
-
-
-print([get_stopid(x) for x in sim.cht_gateways["celf"]])
-
-
-# for network in sim.network_file_list:
-#     reset_network()
-#     sim.network_file = network
-#     
-#     
-()
-#     load_stop_times()
-#     format_stop_times()
-#     analyze_stops()
-#     get_departure_times_per_edge_per_route()
-#     add_departure_to_edge()
-#     
-#     generate_route_subgraphs()
-#     
-#     for seed in range(0, sim.no_of_seeds):
-#         for algo,gateways in sim.louisville_gateways.items():
-#             reset_sim()
-# 
-#             sim.seed = seed
-# 
-#             np.random.seed(sim.seed)
-#             random.seed(sim.seed)
-# 
-#             load_gateways(gateways)
-#             print_stats()
-#             assign_gateways_to_nodes()
-# 
-#             randomly_select_sensor_locations()
-#             assign_sensors_to_nodes()
-#             generate_sensors()
-#             generate_route_subgraphs()
-#             run_simulation()
-#             t = store_results(algo)
-#         
-# # total = 0
-# # n = 0
-# # for v in t['ons']:
-# #     total += v['delivery_rate']
-# #     n += 1
-#     
-# # total/n
-
-# In[15]:
-
-
-0.9905820249369358
-
-
 # In[ ]:
 
 
+for network in sim.network_file_list:
+    print("starting simulation for " + network)
+    reset_network()
+    sim.network_file = network
 
+    load_network()
+    load_stop_times()
+    format_stop_times()
+    analyze_stops()
+    get_departure_times_per_edge_per_route()
+    add_departure_to_edge()
+    generate_route_subgraphs()
+    
+    for seed in range(0, sim.no_of_seeds):
+        reset_sim()
 
+        sim.seed = seed
+        np.random.seed(sim.seed)
+        random.seed(sim.seed)
+
+        randomly_select_sensor_locations()
+        #assign_sensors_to_nodes()
+        #generate_sensors()
+        for algo in ["celf", "in_degree", "betweenness"]:
+            for index in range(len(sim.cht_gateways["celf"])):
+                generate_sensors()
+                load_gateways(sim.cht_gateways[algo][:index+1])
+                print_stats()
+                generate_route_subgraphs()
+                run_simulation()
+                t = store_results(algo + "_budget" + str(index+1))
+
+    # total = 0
+    # n = 0
+    # for v in t['ons']:
+    #     total += v['delivery_rate']
+    #     n += 1
+
+    # total/n
