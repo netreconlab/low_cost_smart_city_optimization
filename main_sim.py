@@ -9,6 +9,7 @@ import networkx as nx
 import numpy as np
 import peartree as pt
 import random
+import sys
 
 ############### MY MODULES ###############
 import sim
@@ -577,14 +578,28 @@ for network in sim.network_file_list:
         randomly_select_sensor_locations()
         #assign_sensors_to_nodes()
         #generate_sensors()
-        for algo in ["celf", "in_degree", "betweenness"]:
-            for index in range(len(sim.cht_gateways["celf"])):
-                generate_sensors()
-                load_gateways(sim.cht_gateways[algo][:index+1])
-                print_stats()
-                generate_route_subgraphs()
-                run_simulation()
-                t = store_results(algo + "_budget" + str(index+1))
+        if network == 'louisville.zip':
+            for algo in ["celf", "in_degree", "betweenness"]:
+                for index in range(len(sim.louisville_gateways["celf"])):
+                    generate_sensors()
+                    load_gateways(sim.louisville_gateways[algo][:index + 1])
+                    print_stats()
+                    generate_route_subgraphs()
+                    run_simulation()
+                    t = store_results(algo + "_budget" + str(index + 1))
+        elif network == 'cht.zip':
+            for algo in ["celf", "in_degree", "betweenness"]:
+                for index in range(len(sim.cht_gateways["celf"])):
+                    generate_sensors()
+                    load_gateways(sim.cht_gateways[algo][:index + 1])
+                    print_stats()
+                    generate_route_subgraphs()
+                    run_simulation()
+                    t = store_results(algo + "_budget" + str(index + 1))
+        else:
+            print("I don't know the city's gateways from sim.py, pele. I must quit!!!")
+            sys.exit()
+
 
     # total = 0
     # n = 0
